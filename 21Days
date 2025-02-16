@@ -1,0 +1,3250 @@
+Attempt #1
+Feb 02, 12:57 PM
+Marks: 20
+Q No: 1
+Correct Answer
+Tailgating is a form of social engineering that allows hackers to:
+Watch company’s main gate 24/7
+
+Get unauthorized access to restricted areas
+
+You Selected
+Watch employees as they leave the gate
+
+Following an employee after leaving work
+
+Q No: 2
+Correct Answer
+Your business email account has been compromised and leaked in a data breach. What is the best course of action(s)?
+Inform the security team of your organization
+
+All of the options
+
+You Selected
+Change the Password on all sites where you use the same password
+
+Change your password immediately
+
+Q No: 3
+Correct Answer
+Information security is the responsibility of:
+IT Security Department
+
+Security Guard
+
+Everyone in the company
+
+You Selected
+Top Management
+
+Q No: 4
+Correct Answer
+What am I supposed to do in case I identify a phishing email in my inbox?
+Give it a thorough read and follow what it asks you to do
+
+Avoid it completely
+
+Recognize and report security threat
+
+You Selected
+Forward it to a friend and ask him/her to check the legitimacy of the email
+
+Q No: 5
+Correct Answer
+Which of the following is NOT considering the adequate measure for physical security?
+Lock the drawers
+
+Keep confidential organization’s document file open in the desk
+
+You Selected
+Hide your hand against camera while inserting the PIN code
+
+Keep strong passwords for corporate laptops and mobile phones
+
+Q No: 6
+Correct Answer
+Why is it important to have a good understanding of Information Security policies and procedures? 
+All of the options
+
+You Selected
+Helps to understand levels of responsibility
+
+Helps protect individuals from being victims of security incidents.
+
+Provides an understanding of steps to follow in the event of a security incident
+
+Q No: 7
+Correct Answer
+You get a text message from a vendor who asks you to click on a link to renew your password so that you can log in to its website. You should:
+Click on the link. If it takes you to the vendor’s website, then you’ll know it’s not a scam.
+
+All of the above
+
+Pick up the phone and call the vendor, using a phone number you know to be correct, to confirm that the request is real.
+
+You Selected
+Reply to the text to confirm that you really need to renew your password.
+
+Q No: 8
+Correct Answer
+Your passwords should be easy to remember and hard to guess, which of the following is an example of strong password?
+Passw0rd
+
+$ayN02#ackers
+
+You Selected
+29-Feb-80
+
+MyPetName
+--------------------------------------------------------------------------------------------------------------------------------------------
+  Attempt #2
+Jan 31, 8:38 PM
+Marks: 10
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which of the following are value types? (Choose all that apply)
+a. string
+
+b. int
+
+You Selected
+c. Decimal
+
+You Selected
+d. System.Drawing.Point
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+Which of the following variable names are allowed? (Choose all that apply)
+a. 6Emp_name
+
+b. _Empname2
+
+You Selected
+c. @stringEmpName
+
+You Selected
+d. name-Emp
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+Which is the correct declaration for a nullable integer?
+a. Nullable(int) i = null;
+
+b. Nullable<int> i = null;
+
+You Selected
+c. int i = null;
+
+d. int<Nullable> i = null;
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+Which of these pieces of code will give error while compiling? (Choose all that apply)
+a. var vTemp = null;
+
+You Selected
+b. string strVal = null; var tmp = strVal;
+
+c. var strNull = (string)null;
+
+d. var v = new object();
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+Which of the following would allow an implicit conversion? (Choose all that apply)
+a. Int16 to Int32
+
+You Selected
+b. Int 32 to Int 16
+
+c. Int16 to double
+
+You Selected
+d. Double to Int16
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are correct?
+(Choose all that apply)
+
+ 
+
+  It is possible to assign values of any type to variables of type object.
+  When a value type is converted to object, it is known as boxing.
+  When an object is converted to a value type, it is known as boxing.
+  Boolean variable cannot be assigned to null.
+  When a value type is boxed, an entirely new object must be allocated and constructed.
+a. 2, 5
+
+You Selected
+b. 1, 5
+
+You Selected
+c. 2,4
+
+d. 3, 4
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which of the following statements is correct about Bitwise | operator? (Choose all that apply) 
+a. The | operator can be used to put OFF a bit.
+
+b. The | operator can be used to Invert a bit.
+
+c. The | operator can be used to check whether a bit is OFF.
+
+d. The | operator can be used to put ON a bit.
+
+You Selected
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+8. What does the acronym "C#" stand for?
+a) C Sharp
+
+You Selected
+b) Computer Science
+
+c) Common Syntax
+
+d) Code Language
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a valid C# data type?
+a) int
+
+b) float
+
+c) double
+
+d) string[]
+
+You Selected
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+ What keyword is used to define a constant variable in C#?
+a) var
+
+b) readonly
+
+c) const
+
+You Selected
+d) static
+-----------------------------------------------------------------------------------------------------------------------------------------------
+  Attempt #2
+Feb 01, 4:52 PM
+Marks: 10
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+The output of the following program would be
+    int i = -15;
+
+         for(; ;)
+
+         {
+
+            Console.WriteLine("{0}", i);
+
+             if (i >= -25)
+
+             {
+
+                 i -= 5;
+
+             }
+
+             else
+
+                 break;
+
+         }
+
+a. Compile-time error
+
+b. 15, 10, 5, 0, -5
+
+c. -15, -20, -25, -30
+
+You Selected
+d. None of the above
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code snippet:
+class Control
+
+{
+
+     static void Main(string[] args)
+
+     {
+
+         Control ctrl = new Program();
+
+         ctrl.FindOutput();       
+
+     }
+
+ 
+
+     void PrintOutput ()
+
+     {
+
+         int num;
+
+         for (num = 10; num <= 15; num++)
+
+         {
+
+             while (Convert.ToBoolean(num))
+
+             {
+
+                 do
+
+                 {
+
+                     Console.WriteLine(1);
+
+                     if (!Convert.ToBoolean(a >> 1))
+
+                         break;
+
+                 } while (Convert.ToBoolean(1));
+
+                 break;
+
+             }
+
+         }
+
+     }
+
+}
+
+ 
+
+a. 1 1 1 1…..infinite times
+
+You Selected
+B Exception
+
+C 0 0 0……infinite times
+
+D 1 1 1 1 1 1
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+   What is the output of the following code snippet:
+
+static void Main(string[] args)
+
+{
+
+int j = 25;
+
+string str = (j++ > 15) ? "Mumbai" : (j++ < 25) ? "Delhi" : "Chennai";
+
+Console.WriteLine(str);
+
+}
+
+a. Compile-time error
+
+b. Mumbai
+
+You Selected
+c. Delhi
+
+d. Chennai
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code?
+
+var x;
+
+x = 10;
+
+Console.WriteLine(x); 
+
+a. Run-time error
+
+b. 10
+
+c. Compile-time error
+
+You Selected
+d. None of the above
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code?
+
+      int num1= -2;
+
+      Int num2 = -1;
+
+      if (Convert.ToBoolean(num1-- == --num2))
+
+               Console.WriteLine("If Condition is True");
+
+      else
+
+               Console.WriteLine("If Condition is False");
+
+a. If Condition is False
+
+b. If Condition is True
+
+You Selected
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code snippet?
+
+static void Main(string[] args)
+
+{
+
+   int i = 1, j = 16;
+
+   while (++i <= j--)
+
+   {
+
+      j++;
+
+   }
+
+   Console.WriteLine(i + "  " + j);
+
+}
+
+a. 15, 14
+
+b. 17, 15
+
+You Selected
+c. 16, 15
+
+d. 16, 14
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which of the following is an example of an access modifier in C#?
+a) this
+
+b) base
+
+c) sealed
+
+d) private
+
+You Selected
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+What is the correct syntax for declaring a class in C#?
+a) class MyClass
+
+You Selected
+b) new class MyClass
+
+c) void class MyClass
+
+d) MyClass class
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the "using" statement in C#?
+a) It imports namespaces.
+
+You Selected
+b) It creates objects.
+
+c) It defines variables.
+
+d) It performs arithmetic operations.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+What does the "static" keyword mean in C#?
+a) It specifies that a variable is constant.
+
+b) It indicates a method can be called without creating an instance of the class.
+
+You Selected
+c) It restricts access to a member within the same assembly.
+
+d) It marks a class as abstract.
+  ------------------------------------------------------------------------------------------------------------
+  Attempt #1
+Feb 03, 5:34 PM
+Marks: 10
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are correct about
+ the C#.NET code snippet given below? (Choose all that apply)
+
+int[ , ] nArr = {{10, 1, 8}, {2, 2, 6}};
+
+ 
+
+nArr represents an array of 3 rows and 2 columns.
+
+nArr.GetUpperBound(1) will yield 2.
+
+You Selected
+nArr represents an array of 2 rows and 3 columns.
+
+You Selected
+nArr.Length will yield 24.
+
+nArr represents 1-D array of 5 integers.
+
+nArr.GetUpperBound(0) will yield 1.
+
+You Selected
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+How would you write an enum variable called WeekDay with values for all week day names?
+enum WeekDay = [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]
+
+enum WeekDay {"Sunday", "Monday ", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"}
+
+enum WeekDay = { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }
+
+enum WeekDay { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }
+
+You Selected
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+Which of the following statements about a String is correct?
+Memory for String is allotted on the stack.
+
+Depending on the length of the String, it may be allotted on heap or stack.
+
+A String object is created by using the statement String s1 = new String;
+
+String is created on the heap.
+
+You Selected
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a looping structure in C#?
+for
+
+while
+
+switch
+
+You Selected
+do-while
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+What does the "this" keyword refer to in C#?
+The current object instance.
+
+You Selected
+The base class.
+
+The derived class.
+
+The parent object.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code snippet?
+
+
+
+int x = 5;
+
+int y = 3;
+
+int result = x % y;
+
+Console.WriteLine(result);
+
+2
+
+You Selected
+1
+
+0
+
+3
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+ What will be the output of the code snippet below?
+  int row, column;
+
+         int[,] arr = new int[2, 2];
+
+         for (row = 0; row < 2; ++row)
+
+         {
+
+             for (column = 0; column < 2; ++column)
+
+             {
+
+                 arr[row, column] = row * 17 + column * 17;
+
+                 Console.Write(arr[row, column] + " ");
+
+             }
+
+         }
+
+0 0 34 34
+
+0 17 17 34
+
+You Selected
+0 0 0 0
+
+17 17 0 0
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+Which of the following is the correct way of declaring a char array?
+  char[] ch1 = new char[5];
+  char[] ch2 = new char[] { 'a','b','c','d','e'};
+  char[] ch3 = { 'a', 'b', 'c', 'd', 'e' };
+  var[] ch4 = { 'a', 'b', 'c', 'd', 'e' };
+1,2,3
+
+You Selected
+1,3,4
+
+1,2
+
+All of the above.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+What is the output of the following code snippet?
+class IndexerList
+
+{
+
+     public IndexerList (int count)
+
+     {
+
+         for (int i = 0; i <= 3; i++)
+
+         {
+
+             array.Add(0);
+
+         }
+
+     }
+
+}
+
+ArrayList array = new ArrayList();
+
+     public object this[int index]
+
+     {
+
+         get
+
+         {
+
+             if (index < 0 || index >= array.Count)
+
+             {
+
+                 return null;
+
+             }
+
+             else
+
+             {
+
+                 return (array[index]);
+
+             }
+
+         }
+
+         set
+
+         {
+
+             array[index] = value;
+
+         }
+
+     }
+
+     public int Count
+
+     {
+
+         get;
+
+         set;
+
+     }
+
+}
+
+class Program
+
+{
+
+     static void Main(string[] args)
+
+     {
+
+         IndexerList list1 = new IndexerList (3);
+
+         list1[0] = "123";
+
+         list1[1] = "abcd";
+
+         list1[2] = "wxyz";
+
+         int nCount = 2;
+
+         for (int i = 0; i <= nCount; i++)
+
+             Console.WriteLine(list1[i]);
+
+         Console.ReadLine();
+
+     }
+
+  }
+
+123 abcd wxyz
+
+You Selected
+Compile-time error
+
+Runtime error
+
+0
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+What is the output of the following program?
+int n1 = 1, n2 = 3, n3 = 3;
+
+switch (n1 + n2 + n3)
+
+{
+
+case 0:
+
+case 2:
+
+case 4:
+
+++n1;
+
+n3 += n2;
+
+     break;
+
+case 1:
+
+case 3:
+
+case 5:
+
+--n1;
+
+n3 -= n2;
+
+break;
+
+default:
+
+      n1 += n2;
+
+break;
+
+}
+
+Console.WriteLine(n1 + "\n" + n2 + "\n" + n3);
+
+5,3,3
+
+4,3,3
+
+You Selected
+5,3,2
+
+4,3,2
+---------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 04, 4:54 PM
+Marks: 10
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which of the following modifiers can be used to prevent inheritance?
+a) Static
+
+b) Constant
+
+c) Sealed
+
+You Selected
+d) final
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+Which Feature of OOP encourages the code reusability?
+a. is – a relationship
+
+You Selected
+b. has – a relationship
+
+c. Sealed class
+
+d. static class
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+Which of the following statements is correct?
+a. Base class pointer cannot point to derived class.
+
+b. Derived class pointer cannot point to base class.
+
+You Selected
+c. Pointer to derived class cannot be created.
+
+d. Pointer to base class cannot be created.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are true of struct type in C#
+a. A structure is a reference type.
+
+You Selected
+b. In structure, memory is allocated on heap.
+
+c. Structures do not support inheritance.
+
+You Selected
+d. Structure members cannot have null values.
+
+You Selected
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+Which of the following is the correct signature of overload “+” operator?
+a) public Test operator + (Test tst1, Test tst2)
+
+You Selected
+b) public abstract operator + (Test tst1, Test tst2)
+
+c) public static Test operator + (Test tst1, Test tst2)
+
+d) All of the above
+
+You Selected
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+Which of the following can the methods of a class differ, to be treated as overloaded methods? Choose all that apply.
+a. Types of arguments
+
+You Selected
+b. Return type of the methods
+
+c. No. of arguments
+
+You Selected
+d. order of arguments
+
+You Selected
+e. Name of methods
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are true of an abstract class?
+a. It is possible to create an object of the abstract class; it must be inherited.
+
+b. You can have abstract as well as non-abstract members in an abstract class.
+
+You Selected
+c. You must declare at least one abstract method in the abstract class.
+
+You Selected
+d. An abstract class is always public.
+
+You Selected
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+Which of the following members of a class can be declared as virtual in C#?
+  Static methods
+  Fields
+  Properties
+  Methods
+   Events.
+1,4,2
+
+3,4,5
+
+You Selected
+2,3,4
+
+1,4,5
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are true of abstract class and interface?
+a. abstract class are to be used if we need to increase reusability in our design.
+
+You Selected
+b. Interfaces support better forward compatibility
+
+c. Abstract method can be used for objects that are closely related whereas interfaces can be used to provide functionality to unrelated classes
+
+d. Interfaces can be used where it is required to define big functions
+
+e. If multiple versions of a component is required abstract classes can be used
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+Which of the following statements are true? 
+a. A class can implement multiple interfaces.
+
+b. Structures cannot be inherited but it can implement an interface.
+
+c. An interface can contain static data.
+
+d. A class that implements an interface can explicitly implement members of that interface
+
+You Selected
+e. All of the above
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #3
+Feb 05, 6:18 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which generic collection in C# is most appropriate for storing a list of items with fast access using an index?
+List<T>
+
+You Selected
+Dictionary<TKey, TValue>
+
+Queue<T>
+
+Stack<T>
+
+Explanation: List<T> is a generic collection that allows for fast access using an index.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+Which method is used to copy an existing file to a new file in C#?
+File.CopyFile()
+
+File.Copy()
+
+You Selected
+File.Duplicate()
+
+File.Replicate()
+
+Explanation: File.Copy() is used to copy an existing file to a new location.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+In a multi-threaded C# application, which collection would be safest to use without additional synchronization?
+ArrayList
+
+List<T>
+
+ConcurrentDictionary<TKey, TValue>
+
+You Selected
+Queue<T>
+
+Explanation: ConcurrentDictionary<TKey, TValue> is designed for safe use in multi-threaded environments without additional locking.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+What happens if you try to access a key in a Dictionary<TKey, TValue> that does not exist?
+A new key-value pair is added
+
+The Dictionary returns null
+
+A KeyNotFoundException is thrown
+
+You Selected
+The Dictionary returns an empty string
+
+Explanation: Accessing a non-existent key in a Dictionary throws a KeyNotFoundException.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+Which non-generic collection in C# is best suited for key-value pair storage?
+ArrayList
+
+HashTable
+
+You Selected
+Stack
+
+Queue
+
+Explanation: HashTable is a non-generic collection that stores key-value pairs.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+You are tasked with managing a collection of employee records where each employee has a unique ID. Which collection would you choose, and why?
+ArrayList - Because it allows for easy addition and removal of records.
+
+Dictionary<int, Employee> - Because it allows quick lookups using the unique ID as the key.
+
+You Selected
+Queue<Employee> - Because it ensures FIFO order when processing employees.
+
+Stack<Employee> - Because it allows LIFO order when processing employees.
+
+    
+
+Explanation: A Dictionary is ideal for managing a collection of items with unique keys for fast access.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which method in C# is used to create a new file?
+File.New()
+
+File.Create()
+
+You Selected
+File.Make()
+
+File.Generate()
+
+Explanation: The File.Create() method in C# is used to create a new file.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+Which collection in C# is inherently synchronized and thread-safe?
+ArrayList
+
+HashTable
+
+You Selected
+List<T>
+
+Queue<T>
+
+Explanation: HashTable is thread-safe by design and does not require additional synchronization.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+In C#, which method would you use to check if a file exists before attempting to open it?
+File.Exists()
+
+You Selected
+File.Check()
+
+File.IsAvailable()
+
+File.Ready()
+
+Explanation: File.Exists() checks whether a specified file exists.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+You need to store a collection of elements where duplicates are not allowed, and order does not matter. Which C# collection should you use?
+List<T>
+
+HashSet<T>
+
+You Selected
+Dictionary<TKey, TValue>
+
+Queue<T>
+
+Explanation: HashSet<T> does not allow duplicate elements and is unordered.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+Which collection should be used when you need to ensure that elements are stored in a first-in, first-out (FIFO) order?
+ArrayList
+
+Stack
+
+Queue
+
+You Selected
+SortedList
+
+Explanation: Queue is a collection that stores elements in a FIFO order.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+A file processing application in C# needs to read data from a file, process it, and write the results to a new file. Which approach would ensure that the application handles large files efficiently?
+Read the entire file into memory, process it, and then write the output.
+
+Use a StreamReader to read and process the file line by line.
+
+You Selected
+Use File.ReadAllLines() and File.WriteAllLines() for reading and writing.
+
+Copy the file first, then process the copy.
+
+Explanation: StreamReader allows efficient processing of large files by reading them line by line, avoiding memory overflow.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+Which of the following methods is used to append data to an existing file in C#?
+File.AppendText()
+
+You Selected
+File.WriteText()
+
+File.AppendAllLines()
+
+File.AddText()
+
+Explanation: File.AppendText() is used to open an existing file and append text to it.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+A C# application needs to write large amounts of data to a file. What would be the most efficient way to append data to the file?
+Use File.WriteAllText()
+
+Use StreamWriter with the Append option
+
+You Selected
+Use File.AppendAllLines()
+
+Use File.CreateText()
+
+Explanation: StreamWriter with the Append option is efficient for writing large amounts of data to a file.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+Which method is used to remove a file from the filesystem in C#?
+File.Delete()
+
+You Selected
+File.Remove()
+
+File.Destroy()
+
+File.Clear()
+
+Explanation: The File.Delete() method is used to delete a file from the filesystem.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #3
+Feb 07, 4:08 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+What is the key difference between async streams introduced in C# 8.0 and traditional IEnumerable?
+Async streams do not support LINQ operations.
+
+Async streams return elements asynchronously.
+
+You Selected
+IEnumerable can handle exceptions, but async streams cannot.
+
+Async streams are only available in .NET Core.
+
+Explanation: Async streams in C# 8.0 allow for asynchronous iteration, returning elements asynchronously with the await foreach loop.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+During a code review, you notice that a fellow developer used a binary search algorithm on an unsorted list. What should be your recommendation and why?
+Suggest sorting the list before using binary search, as it requires sorted data.
+
+You Selected
+Recommend switching to linear search, as it works on unsorted data.
+
+Advise using bubble sort before the binary search for better performance.
+
+Propose using merge sort instead of binary search.
+
+Explanation: Binary search requires a sorted list to function correctly, so sorting the list is necessary before applying this algorithm.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+You are tasked with implementing a search function in a large, unsorted dataset that changes frequently. Which algorithm would you choose and why?
+Linear Search, because it does not require sorting the dataset.
+
+You Selected
+Binary Search, because it is faster with sorted data.
+
+Bubble Sort, to sort the dataset before searching.
+
+Insertion Sort, because it can handle frequent changes.
+
+Explanation: Linear Search is suitable for unsorted datasets, especially when frequent changes make sorting impractical.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+You need to implement a function that filters and processes a collection of data asynchronously in C# 8.0. Which feature would be most appropriate?
+Async Streams, to handle asynchronous data processing.
+
+You Selected
+Tuples, to manage multiple return values.
+
+Switch Expressions, for concise conditional logic.
+
+Pattern Matching, to filter data efficiently.
+
+Explanation: Async Streams in C# 8.0 allow you to handle and process data asynchronously, making them ideal for this scenario.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+What is the main advantage of using tuples in C# 7.0?
+They provide a way to define anonymous types.
+
+They enable methods to return multiple values.
+
+You Selected
+They replace arrays in data structures.
+
+They simplify pattern matching.
+
+Explanation: Tuples in C# 7.0 allow methods to return multiple values in a simple and structured manner, improving code readability.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+Which sorting algorithm repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order?
+Bubble Sort
+
+You Selected
+Insertion Sort
+
+Selection Sort
+
+Quick Sort
+
+Explanation: Bubble Sort works by comparing and swapping adjacent elements, making multiple passes through the list until it is sorted.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which sorting algorithm is the most efficient in the average case among the following?
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+You Selected
+Explanation: Merge Sort is more efficient in the average case with a time complexity of O(n log n), compared to the O(n²) complexity of Bubble, Selection, and Insertion Sorts.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+While implementing a new feature using C# 8.0, you encounter a situation where a reference type might be null. Which feature would you use to handle this, and how?
+Nullable Reference Types, by explicitly marking the variable as nullable.
+
+You Selected
+Local Functions, to encapsulate the null-check logic.
+
+Tuples, to return a default value in case of null.
+
+Pattern Matching, to check for null values.
+
+Explanation: Nullable Reference Types allow you to mark a reference type as nullable, enabling the compiler to warn you about potential null references.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+Which attribute in C# is used to indicate that a method can be overridden by derived classes?
+[Sealed]
+
+[Abstract]
+
+[Override]
+
+[Virtual]
+
+You Selected
+Explanation: The [Virtual] attribute in C# marks a method as overridable, allowing derived classes to provide their own implementation.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+Which searching algorithm divides the dataset in half with each comparison?
+Linear Search
+
+Binary Search
+
+You Selected
+Bubble Sort
+
+Selection Sort
+
+Explanation: Binary Search operates by repeatedly dividing the dataset in half, making it more efficient for sorted data.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+You are optimizing a sorting algorithm for a dataset where the number of elements is small, and the array is already mostly sorted. Which algorithm should you choose, and why?
+Bubble Sort, because it can efficiently handle nearly sorted data.
+
+Selection Sort, because it selects the smallest element.
+
+Insertion Sort, because it is efficient with nearly sorted data.
+
+You Selected
+Merge Sort, because it is the fastest in general.
+
+Explanation: Insertion Sort is particularly efficient for small or nearly sorted datasets, making it the ideal choice here.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+Which of the following is a new feature introduced in C# 7.0?
+Nullable Reference Types
+
+Local Functions
+
+You Selected
+Async Streams
+
+Switch Expressions
+
+Explanation: Local functions were introduced in C# 7.0, allowing the definition of functions inside methods for better encapsulation.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+In which scenario is a linear search algorithm preferred over a binary search?
+The list is sorted.
+
+The list is unsorted.
+
+You Selected
+The list contains many elements.
+
+The list is in descending order.
+
+Explanation: Linear search is preferred for unsorted lists as it does not require the list to be sorted before searching.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+In C# 8.0, which feature helps handle potentially null reference types more effectively?
+Pattern Matching
+
+Local Functions
+
+Nullable Reference Types
+
+You Selected
+Tuples
+
+Explanation: Nullable Reference Types in C# 8.0 help prevent null reference exceptions by distinguishing between nullable and non-nullable reference types.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+Which of the following is not a benefit of using pattern matching in C# 7.0?
+Reduces the need for casting
+
+Simplifies complex conditional logic
+
+Eliminates the need for exception handling
+
+You Selected
+Enhances code readability
+
+Explanation: Pattern matching simplifies conditional logic and enhances readability but does not eliminate the need for exception handling.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 08, 3:46 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which delegate type should you use when a method does not return a value?
+Func
+
+Predicate
+
+Action
+
+You Selected
+EventHandler
+
+Explanation: Action is a delegate type in C# that represents methods that do not return a value.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+You need to create a method that filters a list of objects based on a specific condition. Which delegate would you use, and why?
+Func, because it allows returning a value based on the condition.
+
+Action, because it allows for executing a method without returning a value.
+
+Predicate, because it is specifically designed for filtering with a boolean condition.
+
+You Selected
+EventHandler, because it is used for handling events.
+
+Explanation: Predicate is ideal for filtering as it returns a boolean indicating whether an object meets the condition.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+In which scenario would you use the ref keyword in C#?
+When you want to pass a variable by value.
+
+When you need to modify the argument passed into the method.
+
+You Selected
+When you want to pass a read-only parameter.
+
+When you want to define an anonymous method.
+
+Explanation: The ref keyword is used when you need to modify the variable passed to the method.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+In C#, which keyword allows you to define a method parameter that will return data back to the caller?
+ref
+
+out
+
+You Selected
+in
+
+var
+
+Explanation: The out keyword allows a method to return data back to the caller through the method parameters.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+During a code review, you find that a developer used reflection to access a private field in a class. What should be your recommendation and why?
+Suggest using public properties instead, as reflection can bypass encapsulation.
+
+You Selected
+Recommend leaving the code as is because reflection is necessary for accessing private members.
+
+Advise using the dynamic keyword to access the field instead of reflection.
+
+Propose modifying the field to be public for easier access
+
+Explanation: Reflection can be powerful but should be used carefully as it can bypass encapsulation principles.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+You are asked to refactor a method that contains repetitive type-specific logic. How would you optimize this using generics?
+Create a generic method that can handle different types without duplication.
+
+You Selected
+Use reflection to dynamically determine the types at runtime.
+
+Use delegates to pass the specific logic as parameters.
+
+Implement threading to handle each type separately.
+
+Explanation: Generics allow you to refactor type-specific logic into a single method, reducing code duplication.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which of the following is a benefit of using Func delegates in C#?
+They can return any type of value.
+
+You Selected
+They are limited to methods with no parameters.
+
+They simplify exception handling.
+
+They cannot be used with lambda expressions.
+
+Explanation: Func delegates are versatile and can return values of any type.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+What is the main advantage of using generic methods in C#?
+They can store values of any data type.
+
+They allow you to create type-safe methods that work with any data type.
+
+You Selected
+They simplify the code by eliminating the need for method overloading.
+
+They are more efficient than non-generic methods.
+
+Explanation: Generic methods provide type safety while allowing the method to work with any data type.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+Which of the following methods is used to inspect metadata using reflection in C#?
+GetType()
+
+You Selected
+ToString()
+
+GetHashCode()
+
+Equals()
+
+Explanation: GetType() is used to obtain the metadata information of an object at runtime using reflection.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+Which of the following is a key characteristic of a delegate in C#?
+Delegates are value types.
+
+Delegates cannot point to multiple methods.
+
+Delegates are type-safe function pointers.
+
+You Selected
+Delegates can only be used with static methods.
+
+Explanation: Delegates are type-safe and can point to methods that match their signature.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+You are implementing a multi-threaded application in C#. Which approach would you choose to safely update a shared resource across multiple threads?
+Use the lock statement to synchronize access to the resource.
+
+You Selected
+Use Task.Run to execute the operation asynchronously.
+
+Use reflection to inspect the state of the resource.
+
+Use out parameters to pass the resource between threads.
+
+Explanation: The lock statement ensures that only one thread can access the shared resource at a time, preventing race conditions.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+Which of the following is not a feature of asynchronous programming in C#?
+Async methods can be awaited.
+
+Async methods block the main thread.
+
+You Selected
+Async methods can return Task or Task<T>.
+
+Async methods allow non-blocking operations.
+
+Explanation: Async methods do not block the main thread; they allow for non-blocking operations.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+A method in your application needs to perform a long-running computation while keeping the UI responsive. Which feature of C# would you use?
+Use async and await to run the computation asynchronously.
+
+You Selected
+Use reflection to inspect the progress of the computation.
+
+Use lambda expressions to simplify the computation logic.
+
+Use multicast delegates to distribute the computation across methods.
+
+Explanation: Async and await allow you to perform long-running operations asynchronously, keeping the UI responsive.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+What is the main purpose of using lambda expressions in C#?
+To create complex data structures.
+
+To write inline expressions or anonymous methods.
+
+You Selected
+To define new types at runtime.
+
+To perform complex mathematical operations
+
+Explanation: Lambda expressions are used to write anonymous methods inline in a more concise way.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+What is the advantage of using multicast delegates in C#?
+They can store multiple values of different types.
+
+They allow a delegate to call multiple methods in a single invocation.
+
+You Selected
+They reduce memory usage by combining multiple methods into one.
+
+They can only be used with static methods.
+
+Explanation: Multicast delegates can call multiple methods in a single invocation, which is one of their primary advantages.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 10, 5:08 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which assertion method would you use to verify that two values are equal in a unit test?
+Assert.IsTrue()
+
+Assert.IsNull()
+
+Assert.AreEqual()
+
+You Selected
+Assert.Fail()
+
+Explanation: Assert.AreEqual() is used to verify that two values are equal in a unit test.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+You are working on a Test-Driven Development (TDD) project. After writing a failing test and then implementing the code to pass the test, what is your next step?
+Delete the test case since it has passed.
+
+Refactor the code to improve its structure while ensuring the test still passes.
+
+You Selected
+Move on to the next feature without changing anything.
+
+Add more assertions to the test case.
+
+Explanation: In TDD, after passing the test, the next step is to refactor the code to improve its design and structure, ensuring that the test still passes.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+What is the primary purpose of unit testing in software development?
+To test the entire system end-to-end
+
+To ensure that individual units or components of a program work as intended
+
+You Selected
+To validate the performance of the software
+
+To check the security vulnerabilities in the code
+
+Explanation: Unit testing focuses on testing individual units or components to ensure they function correctly.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+When mocking a dependency in a unit test, what is the primary purpose of using a mocking framework like Moq?
+To replace a real object with a controlled substitute to test the interaction between objects
+
+You Selected
+To test the actual database operations
+
+To create complex UI elements
+
+To generate random data for tests
+
+Explanation: Mocking frameworks like Moq are used to create controlled substitutes for real objects, allowing testing of interactions in isolation.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+A developer wrote a unit test that passes when run individually but fails when run as part of a test suite. What could be a possible reason?
+The test depends on the order of execution.
+
+You Selected
+The test is too complex to run in a suite.
+
+The test framework does not support suite execution.
+
+The test is not configured with a proper timeout.
+
+Explanation: Tests that depend on the order of execution can fail when run in a suite due to shared state or dependencies.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+You need to verify that a method throws an exception when invalid data is provided. Which NUnit assertion would you use, and why?
+Assert.Throws, because it checks that a specific exception is thrown.
+
+You Selected
+Assert.AreEqual, because it verifies that the exception message matches.
+
+Assert.IsTrue, because it confirms the method returns a boolean.
+
+Assert.Catch, because it captures all exceptions for further inspection.
+
+Explanation: Assert.Throws is specifically designed to test that a particular exception is thrown when a method is executed.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+In Test-Driven Development (TDD), what is the correct sequence of steps?
+Write code, Write test, Refactor
+
+Write test, Write code, Refactor
+
+You Selected
+Refactor, Write code, Write test
+
+Write code, Refactor, Write test
+
+Explanation: TDD follows the cycle of writing a test first, then writing the minimum code required to pass the test, and finally refactoring the code.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+What is the difference between Assert.Throws and Assert.Catch in NUnit?
+Assert.Throws only catches unhandled exceptions, while Assert.Catch can catch all exceptions.
+
+Assert.Throws verifies that an exception is thrown, while Assert.Catch captures the exception for further inspection.
+
+You Selected
+Assert.Throws is for async methods, while Assert.Catch is for sync methods.
+
+There is no difference; they are interchangeable.
+
+Explanation: Assert.Throws is used to check if a specific exception is thrown, while Assert.Catch can be used to inspect the exception.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+During a code review, a tester points out that your unit tests are tightly coupled to the implementation details of the code. What should you do to improve the tests?
+Refactor the tests to focus on the public API of the code rather than internal implementation details.
+
+You Selected
+Increase the number of assertions in each test.
+
+Add more mocking to simulate the implementation details.
+
+Write tests that directly access private fields and methods.
+
+Explanation: Good unit tests should focus on the public API and behavior rather than being tightly coupled to the implementation details, allowing for easier refactoring and maintenance.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the [SetUp] attribute in a unit test?
+To define a method that runs after each test
+
+To set up a condition that skips the test
+
+To define a method that runs before each test
+
+You Selected
+To teardown any setup after the test is complete
+
+Explanation: The [SetUp] attribute is used to define a method that will run before each test in NUnit.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+You are tasked with testing a method that calculates discounts based on user membership levels. Which of the following strategies would you use to ensure comprehensive test coverage?
+Write a single test case for the most common membership level.
+
+Write multiple test cases, including edge cases like the highest and lowest membership levels.
+
+You Selected
+Use only positive test cases to confirm the method works under normal conditions.
+
+Skip testing edge cases, as they are unlikely to occur.
+
+Explanation: Comprehensive test coverage requires testing various scenarios, including edge cases, to ensure the method handles all possible inputs.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+Which of the following is true about test fixtures in NUnit?
+They must contain at least one [Test] method.
+
+You Selected
+They can only contain one [Test] method.
+
+They do not support setup or teardown methods.
+
+They can only be used with MSTest.
+
+Explanation: A test fixture in NUnit is a class that contains one or more tests, and it must include at least one [Test] method.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+Which of the following is a popular unit testing framework for .NET?
+JUnit
+
+NUnit
+
+You Selected
+Selenium
+
+TestNG
+
+Explanation: NUnit is a popular unit testing framework for .NET applications, similar to JUnit for Java.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+Which attribute is used to run a specific test multiple times with different input values in NUnit?
+[TestCase]
+
+You Selected
+) [TestFixture
+
+[Repeat]
+
+[Retry]
+
+Explanation: [TestCase] is used in NUnit to run the same test method multiple times with different inputs.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+In unit testing, what is the purpose of the [Test] attribute in NUnit?
+To skip the test case
+
+To mark a method as a unit test that NUnit will run
+
+You Selected
+To assert the test case
+
+To log test results to a file
+
+Explanation: The [Test] attribute is used in NUnit to indicate that a method is a unit test.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #3
+Feb 10, 5:28 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+What is the result of accessing a Razor Page with this handler?
+
+public class IndexModel : PageModel
+
+{
+
+    public void OnGet()
+
+    {
+
+        ViewData["Message"] = "Welcome to Razor Pages";
+
+    }
+
+}
+
+Compilation Error
+
+The page will show "Hello, World!"
+
+The page will show "Welcome to Razor Pages"
+
+You Selected
+The page will not render anything.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+You are building a .NET Core application where the requirement is to serve static files like images, CSS, and JavaScript. Which approach should you use to meet this requirement?
+Create a separate controller to handle static files.
+
+Host the static files on a CDN.
+
+Configure the application to use the UseStaticFiles() middleware.
+
+You Selected
+Embed the static files within assembly resources.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+Which of the following is a benefit of using .NET Core?
+Requires less memory compared to .NET Framework.
+
+You Selected
+Limited to Windows platform.
+
+Requires Visual Studio to run.
+
+Does not support asynchronous programming.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+A new developer on your team asks why .NET Core is chosen for cross-platform development instead of the traditional .NET Framework. Which reason should you give?
+.NET Core supports WinForms, which is not available in .NET Framework.
+
+.NET Core is optimized for mobile application development.
+
+.NET Core is lighter and can run on Linux, Windows, and macOS.
+
+You Selected
+.NET Framework is deprecated in favor of .NET Core.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+public void Configure(IApplicationBuilder app)
+
+{
+
+app.Use(async (context, next) =>
+
+    {
+
+       
+
+await context.Response.WriteAsync("First Middleware");
+
+        await next.Invoke();
+
+    });
+
+app.Run(async (context) =>
+
+    {
+
+        await context.Response.WriteAsync("Second Middleware");
+
+    });
+
+}
+
+First MiddlewareSecond Middleware
+
+You Selected
+First Middleware
+
+Second MiddlewareFirst Middleware
+
+Second Middleware
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+Which command is used to create a new .NET Core project?
+dotnet new project
+
+dotnet create project
+
+dotnet new <template>
+
+You Selected
+dotnet start
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+How can you serve static files in an ASP.NET Core application?
+By using the StaticFileServer class.
+
+By enabling static file support in web.config.
+
+By using the UseStaticFiles() middleware.
+
+You Selected
+By manually handling requests in controllers.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+What will the following middleware do in an ASP.NET Core application?
+
+public void Configure(IApplicationBuilder app)
+
+{
+
+    app.Use(async (context, next) =>
+
+    {
+
+        await context.Response.WriteAsync("Middleware 1");
+
+        await next.Invoke();
+
+    });
+
+ 
+
+    app.Run(async (context) =>
+
+    {
+
+        await context.Response.WriteAsync("Middleware 2");
+
+    });
+
+}
+
+Outputs "Middleware 2".
+
+Outputs "Middleware 1Middleware 2".
+
+You Selected
+Throws a runtime error.
+
+Outputs "Middleware 1".
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+What does the following Razor Page code output when accessed?
+
+@page
+
+@model IndexModel
+
+<h1>Hello, @Model.Message!</h1>
+
+ 
+
+@functions {
+
+    public string Message { get; set; } = "ASP.NET Core";
+
+}
+
+Compilation Error
+
+Hello, ASP.NET Core!
+
+You Selected
+Runtime Exception
+
+Hello, World!
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+You need to build a simple web application using .NET Core that should be portable across different operating systems. What steps will you take?
+Use .NET Framework to ensure compatibility.
+
+Use Windows-specific libraries for maximum performance.
+
+Install Visual Studio and build the application using ASP.NET Web Forms.
+
+Install .NET Core SDK and use Razor Pages or MVC for the application.
+
+You Selected
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+Your application is experiencing delays when serving large static files to users. What is a recommended approach to improve the performance?
+Increase the server's CPU and memory.
+
+Enable caching for static files through middleware.
+
+You Selected
+Compress the files before sending them to the client.
+
+Use asynchronous processing in the controller actions.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+During a code review, you notice that a developer is manually writing response headers in a .NET Core application. What should be the correct approach to manage response headers efficiently?
+Continue manually writing headers as it gives more control.
+
+Use middleware to handle response headers globally.
+
+You Selected
+Use Web.config to manage headers.
+
+Manage response headers in the controller's action methods.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+What is middleware in ASP.NET Core?
+A static file server.
+
+A library that provides data access layers.
+
+A database connection handler.
+
+A function that can process HTTP requests and responses.
+
+You Selected
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+What will be the output of the following code?
+
+public class Program
+
+{
+
+ public static void Main(string[] args)
+
+    {
+
+Console.WriteLine("Hello, .NET Core!");
+
+    }
+
+}
+
+Hello, World!
+
+Compilation Error
+
+Hello, .NET Core!
+
+You Selected
+Runtime Exception
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+What is a key difference between .NET Core and .NET Framework?
+.NET Core supports Windows Forms, while .NET Framework does not.
+
+.NET Framework is open-source, while .NET Core is not.
+
+.NET Core does not support cloud-based development.
+
+.NET Core is cross-platform, while .NET Framework is Windows-only.
+
+You Selected
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 11, 7:41 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+What is the primary benefit of implementing custom exception handling in .NET applications?
+To stop the application when an error occurs
+
+To handle specific error conditions and maintain application stability
+
+You Selected
+To improve the application's performance
+
+To log all user actions for audit purposes
+
+Explanation: Custom exception handling allows developers to manage specific errors, ensuring that the application can recover gracefully and remain stable.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+ 
+
+Which class in .NET is commonly used for logging errors and information in an application?
+
+ 
+
+ 
+
+Console
+
+Debugger
+
+Trace
+
+You Selected
+File
+
+Explanation: The Trace class in .NET is used for logging information, warnings, and errors.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+ 
+
+What does the term "exception handling" refer to in .NET applications?
+
+ 
+
+ 
+
+Preventing all errors in the code
+
+Managing and responding to runtime errors in a controlled manner
+
+You Selected
+Stopping the application whenever an error occurs
+
+Logging all user activities
+
+Explanation: Exception handling involves catching and responding to errors that occur during the execution of a program.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the [Authorize] attribute in ASP.NET?
+To handle exceptions
+
+To encrypt sensitive data
+
+To restrict access to actions or controllers based on user roles
+
+You Selected
+To log user activities
+
+Explanation: The [Authorize] attribute is used to specify that a user must be authenticated and authorized to access certain parts of an application.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+A developer implemented a logging system in a .NET application, but sensitive information like passwords is being logged. What is the best practice to handle this situation?
+Exclude sensitive information from the logs to prevent security breaches.
+
+You Selected
+Encrypt all log entries.
+
+Store logs in a secure, encrypted database.
+
+Use a single log file for all information.
+
+Explanation: Sensitive information like passwords should never be logged to avoid potential security risks.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+ 
+
+Which of the following is a common security practice in .NET applications for verifying user identity?
+
+ 
+
+ 
+
+Encryption
+
+Authentication
+
+You Selected
+Compression
+
+Serialization
+
+Explanation: Authentication is the process of verifying the identity of a user or system.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+ 
+
+Which .NET class would you use to securely store a hashed version of a password?
+
+ 
+
+ 
+
+SHA256
+
+You Selected
+MD5
+
+AesManaged
+
+HMACSHA1
+
+Explanation: SHA256 is a cryptographic hash function commonly used for securely storing hashed passwords.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+Which of the following encryption algorithms is supported by the .NET framework for securing data?
+RSA
+
+AES
+
+DES
+
+All of the above
+
+You Selected
+Explanation: The .NET framework supports multiple encryption algorithms, including RSA, AES, and DES.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+You are designing a critical .NET application that must remain reliable under all conditions, including when exceptions occur. Which of the following strategies should you employ?
+Implement global exception handling and log all unhandled exceptions while allowing the application to continue running.
+
+You Selected
+Ignore exceptions and focus on performance optimization.
+
+Display detailed exception messages to the end-user for better debugging.
+
+Disable all exception handling to speed up the application.
+
+Explanation: Implementing global exception handling ensures that unhandled exceptions are logged and managed, allowing the application to continue running smoothly.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+ 
+
+Which of the following is a secure coding practice to prevent SQL injection attacks in .NET applications?
+
+ 
+
+ 
+
+Using string concatenation to build SQL queries
+
+Using parameterized queries or stored procedures
+
+You Selected
+Disabling database logging
+
+Using unescaped user input in queries
+
+Explanation: Parameterized queries and stored procedures help prevent SQL injection attacks by separating user input from SQL commands.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+ 
+
+In .NET, which attribute is used to enforce SSL/TLS on a controller or action in ASP.NET MVC?
+
+ 
+
+ 
+
+[HttpPost]
+
+[RequireHttps]
+
+You Selected
+[ValidateAntiForgeryToken]
+
+[Authorize]
+
+Explanation: The [RequireHttps] attribute forces the application to use HTTPS, ensuring that data is transmitted securely.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+ 
+
+During a security audit, it was found that an application is vulnerable to cross-site scripting (XSS) attacks. Which of the following actions should you take to mitigate this risk?
+
+ 
+
+ 
+
+Implement input validation and encode output to prevent malicious scripts from being executed
+
+You Selected
+Disable JavaScript in the application
+
+Encrypt all data before displaying it to the user
+
+Use cookies for storing sensitive information
+
+Explanation: Proper input validation and output encoding are essential practices to prevent XSS attacks.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+ 
+
+You are tasked with ensuring that a .NET application only accepts requests over HTTPS. Which attribute would you apply to your controllers to enforce this, and what is the impact?B
+
+ 
+
+ 
+
+[RequireHttps] - Ensures that all requests are made over HTTPS, protecting data in transit.
+
+You Selected
+[HttpGet] - Forces all GET requests to use HTTPS.
+
+[Authorize] - Limits access to authorized users but does not enforce HTTPS.
+
+[ValidateAntiForgeryToken] - Secures forms against CSRF attacks but does not enforce HTTPS.
+
+Explanation: The [RequireHttps] attribute ensures that all communications are secured using HTTPS, protecting data from interception.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+ 
+
+Which of the following practices should be avoided to ensure the security of sensitive data in .NET applications?
+
+ 
+
+ 
+
+Storing passwords in plaintext
+
+You Selected
+Using SSL/TLS for data transmission
+
+Encrypting sensitive data before storage
+
+Implementing role-based access control
+
+Explanation: Storing passwords in plaintext is a significant security risk and should be avoided. Instead, passwords should be hashed and salted.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+ 
+
+You are building a financial application in .NET that requires secure communication and data protection. What combination of techniques would you implement to ensure both are adequately secured?
+
+ 
+
+ 
+
+Use HTTPS for secure communication, and encrypt sensitive data before storing it in the database.
+
+You Selected
+Store sensitive data in plaintext and rely on SSL/TLS for security.
+
+Use a simple password for all encryption keys and store them in the codebase.
+
+Rely solely on the firewall to protect the application from all threats.
+
+Explanation: Combining HTTPS for secure communication and encryption for data protection ensures comprehensive security.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 11, 5:27 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+Which design pattern would you use to ensure a family of related or dependent objects are created without specifying their concrete classes?
+Observer
+
+Abstract Factory
+
+You Selected
+Singleton
+
+Strategy
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+You have a class that handles both user authentication and user notification. How would you refactor this class to adhere to the Single Responsibility Principle (SRP)?
+By creating separate classes for authentication and notification, with each class handling only one responsibility.
+
+You Selected
+By merging the functionalities into a single class.
+
+By using a third-party library for notifications.
+
+By making the class abstract and implementing functionalities in derived classes.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+How can the Open/Closed Principle (OCP) be applied in a scenario where you need to add a new type of notification system (e.g., SMS, Email) without modifying existing code?
+By adding new classes that inherit from an existing class.
+
+By creating a global handler for all notification types
+
+By using interfaces or abstract classes and creating new implementations.
+
+You Selected
+By modifying the existing class to handle the new type.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+You are working on a project with multiple modules and a need for extensibility in the logging mechanism. How would you refactor the logging module to follow SOLID principles?
+By defining an interface for logging and implementing it in various classes.
+
+You Selected
+By creating a base logging class and modifying existing code to use it.
+
+By using a global logging class accessible from any module.
+
+By adding logging functionalities directly in each module.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+In the context of the Liskov Substitution Principle (LSP), which scenario demonstrates a violation?
+A derived class extends the base class functionality without changing its interface.
+
+A derived class overrides base class methods with same signatures.
+
+A derived class throws exceptions not thrown by the base class methods.
+
+You Selected
+A derived class replaces the base class without altering expected behavior.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+A legacy application uses a large monolithic class to handle various business logic operations. How would you refactor this application to adhere to the Open/Closed Principle (OCP)?
+By breaking down the class into smaller classes and using interfaces for extension.
+
+You Selected
+By using a single class with multiple methods for all operations.
+
+By creating a new class for each new operation and merging them into the monolithic class.
+
+By modifying the monolithic class to handle new business operations.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+In which scenario would the Adapter Pattern be most appropriate?
+When you want to create multiple instances of an object.
+
+When you want to observe changes in a class.
+
+When you need to convert an interface into another interface expected by a client.
+
+You Selected
+When you want to extend the functionality of a class.
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+In a multi-tiered application, how would you use the Dependency Inversion Principle (DIP) to improve code flexibility?
+By coupling high-level and low-level modules tightly for efficiency.
+
+By depending on abstractions (interfaces) for higher-level modules and allowing lower-level modules to implement these abstractions.
+
+You Selected
+By depending on concrete classes for lower-level modules.
+
+By using global variables for shared dependencies.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a Creational Design Pattern?
+Abstract Factory
+
+Singleton
+
+Adapter
+
+You Selected
+Factory Method
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+Which SOLID principle is violated if a class is responsible for both reading data from a file and formatting it?
+Dependency Inversion Principle
+
+Single Responsibility Principle
+
+You Selected
+Interface Segregation Principle
+
+Open/Closed Principle
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+What is the primary purpose of the Decorator Pattern?
+To ensure a class has only one instance.
+
+To add new functionality to an object dynamically.
+
+You Selected
+To create a single instance of a class.
+
+To separate a complex system into simpler parts.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+What does the Single Responsibility Principle (SRP) state?
+A class should not depend on other classes.
+
+A class should be able to handle multiple tasks.
+
+Possible Answer A class should be open for extension but closed for modification.
+
+A class should have only one reason to change.
+
+You Selected
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+In the Factory Method pattern, what is the primary responsibility of the factory?
+To manage the lifecycle of an object.
+
+To create a specific instance of an object.
+
+You Selected
+To provide access to a shared resource.
+
+To implement the business logic.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+In a project using the Observer Pattern, you find that the observers are tightly coupled with the subject. How would you modify the design to better follow SOLID principles?
+By ensuring that the subject is responsible for managing its own state.
+
+By making the observers implement a specific interface.
+
+By allowing the subject to manage observers internally without exposing them.
+
+By using dependency injection to decouple the observers from the subject.
+
+You Selected
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+Which design pattern is used to ensure a class has only one instance and provides a global point of access to it?
+Factory Method
+
+Decorator
+
+Singleton
+
+You Selected
+Observer
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 13, 4:59 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+How do you modify an existing record in a table?
+Using the UPDATE command.
+
+You Selected
+Using the INSERT command.
+
+Using the DELETE command.
+
+Using the SELECT command.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+You are tasked with designing a database schema for an e-commerce application. How would you establish relationships between orders and customers while ensuring data integrity?
+By creating a new table for order IDs and using it as a foreign key in the customers table.
+
+By using a single table for both orders and customers and creating a unique column for customer IDs.
+
+By creating separate tables for orders and customers, with a foreign key in the orders table referencing the customers table.
+
+You Selected
+By using a global ID field in both orders and customers tables.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+Which SQL command is used to retrieve data from a database?
+SELECT
+
+You Selected
+UPDATE
+
+DELETE
+
+INSERT
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+How would you use a WHERE clause in conjunction with the SELECT statement to filter results?
+By using WHERE clause in the INSERT statement.
+
+By adding WHERE clause after SELECT statement and specifying conditions to filter rows.
+
+You Selected
+By using WHERE clause in the UPDATE statement to modify specific rows.
+
+By using WHERE clause before the SELECT statement to define the rows to be selected.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+What is the difference between the INNER JOIN and LEFT JOIN operations?
+INNER JOIN returns all rows from both tables, while LEFT JOIN returns rows from the left table and unmatched rows from the right table.
+
+INNER JOIN and LEFT JOIN are functionally equivalent.
+
+INNER JOIN returns rows that have matching values in both tables, while LEFT JOIN returns all rows from the left table and matched rows from the right table.
+
+You Selected
+INNER JOIN returns all rows from the left table, while LEFT JOIN returns rows from the right table.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+Which of the following statements about SQL transactions is true?
+Transactions are used to optimize query performance by reducing execution time.
+
+A COMMIT statement makes all changes made during the transaction permanent.
+
+You Selected
+A ROLLBACK statement is used to save changes made during a transaction.
+
+Transactions can be rolled back after being committed.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+You need to generate a report that includes all customers and their corresponding orders, including customers who have not placed any orders. What SQL query would you use?
+SELECT * FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
+
+You Selected
+SELECT * FROM Customers RIGHT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
+
+SELECT * FROM Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerID
+
+SELECT * FROM Orders LEFT JOIN Customers ON Orders.CustomerID = Customers.CustomerID
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+In a database where you need to track changes to employee records over time, what would be the best approach to handle historical data?
+By creating a separate history table to store historical changes with appropriate foreign keys
+
+You Selected
+By updating existing records with new values and adding a timestamp column.
+
+By creating a new table for each historical change with employee details.
+
+By using a single table to store all historical and current records with a status flag.
+
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+When designing a database to handle transactions for a banking system, how would you ensure that the database maintains consistency in case of a failure during a transaction?
+By implementing the ACID properties (Atomicity, Consistency, Isolation, Durability) in transactions.
+
+You Selected
+By using the COMMIT statement to finalize transactions.
+
+By using the ROLLBACK statement to reverse changes made during a transaction.
+
+By manually checking and correcting data inconsistencies after a failure.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+What is the purpose of a foreign key in a relational database?
+To uniquely identify a record in a table.
+
+To allow duplicate records in a table.
+
+To enforce referential integrity between tables.
+
+You Selected
+To sort data in ascending order.
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+You need to optimize the performance of a frequently queried table in your SQL Server database. What indexing strategy would you use?
+Creating a single clustered index on the primary key column and avoiding additional indexes.
+
+Adding multiple non-clustered indexes on columns that are frequently used in queries.
+
+You Selected
+Using only unique indexes to ensure data integrity.
+
+Applying indexes to columns that are not used in queries to speed up performance.
+
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+Which SQL operator is used to combine the results of two SELECT statements?
+EXCEPT
+
+JOIN
+
+UNION
+
+You Selected
+INTERSECT
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+Which SQL command is used to grant specific permissions on a database object to a user
+REVOKE
+
+ALTER
+
+DENY
+
+GRANT
+
+You Selected
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+What happens if you try to insert a record into a table with a foreign key constraint that does not exist in the referenced table?
+The record is inserted with a NULL value in the foreign key column.
+
+The insert operation will fail and return an error.
+
+You Selected
+The database engine will automatically create the referenced record.
+
+The record is inserted with an error message in the log file.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+What is a primary key in a database table?
+A key that uniquely identifies a record in a table.
+
+You Selected
+A key that is used for foreign key relationships.
+
+A key that allows for null values.
+
+A key that can be duplicated within a table.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 14, 5:12 PM
+Marks: 15
+Q No: 1
+Correct Answer
+Marks: 1/1
+
+In a scenario where you need to perform a series of database modifications and ensure all modifications are applied or none at all, how would you use transactions to achieve this?
+By grouping modifications within a single transaction and using COMMIT to finalize changes.
+
+You Selected
+By using COMMIT after each modification.
+
+By using ROLLBACK to undo modifications in case of errors.
+
+By applying changes directly to the database without using transactions.
+
+Q No: 2
+Correct Answer
+Marks: 1/1
+
+What does a clustered index do in SQL Server?
+Speeds up data retrieval by creating a separate index table.
+
+Determines the physical order of data in a table based on the index key.
+
+You Selected
+Ensures data integrity by enforcing a primary key constraint.
+
+Provides a unique identifier for each row in a table.
+
+Q No: 3
+Correct Answer
+Marks: 1/1
+
+What does the CHECK constraint do in SQL?
+Creates a foreign key relationship between tables.
+
+Ensures that values in a column adhere to a specified condition.
+
+You Selected
+Enforces uniqueness in a column.
+
+Limits the number of rows in a table.
+
+Q No: 4
+Correct Answer
+Marks: 1/1
+
+What is the use of the REVOKE command in SQL?
+To grant permissions to a user
+
+To modify existing permissions
+
+To remove previously granted permissions from a user.
+
+You Selected
+To create new database objects.
+
+Q No: 5
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the COMMIT command in SQL?
+To undo changes made during a transaction.
+
+To make all changes made during a transaction permanent.
+
+You Selected
+To delete all records in a table.
+
+To create a new database.
+
+Q No: 6
+Correct Answer
+Marks: 1/1
+
+You are tasked with ensuring that a database schema follows data integrity rules and meets performance requirements. How would you use DDL commands to achieve this?
+By creating and managing constraints, indexes, and database objects to enforce data integrity and optimize performance.
+
+You Selected
+By using SELECT statements to query the database and verify data consistency.
+
+By using DML commands to adjust the data structure.
+
+By modifying data directly to meet performance needs.
+
+Q No: 7
+Correct Answer
+Marks: 1/1
+
+Which SQL command is used to remove a table from a database?
+REMOVE TABLE
+
+TRUNCATE TABLE
+
+DROP TABLE
+
+You Selected
+DELETE TABLE
+
+Q No: 8
+Correct Answer
+Marks: 1/1
+
+Which SQL command is used to add a new column to an existing table?
+CREATE TABLE
+
+DROP TABLE
+
+MODIFY TABLE
+
+ALTER TABLE
+
+You Selected
+Q No: 9
+Correct Answer
+Marks: 1/1
+
+How would you handle a scenario where you need to grant permissions to a user to read data from a table but not modify it?
+By using the REVOKE command.
+
+By using the GRANT SELECT command.
+
+You Selected
+By using the GRANT UPDATE command.
+
+By using the CREATE USER command.
+
+Q No: 10
+Correct Answer
+Marks: 1/1
+
+Which of the following constraints ensures that no duplicate values are allowed in a column?
+UNIQUE
+
+You Selected
+CHECK
+
+FOREIGN KEY
+
+PRIMARY KEY
+
+Q No: 11
+Correct Answer
+Marks: 1/1
+
+You need to ensure that a table always has at least one record and prevent deletion of all records. What constraint would you use?
+PRIMARY KEY constraint to ensure at least one row exists.
+
+FOREIGN KEY constraint to link to another table.
+
+UNIQUE constraint to ensure no duplicate rows.
+
+CHECK constraint to enforce a minimum number of rows
+
+You Selected
+Q No: 12
+Correct Answer
+Marks: 1/1
+
+You are designing a system where users need to access and modify sensitive data. How would you use DCL commands to manage user permissions effectively?
+By creating new users with full access and using ALTER TABLE to limit their access.
+
+By using GRANT to provide necessary permissions and REVOKE to remove unnecessary permissions.
+
+You Selected
+By using CREATE TABLE to enforce data security rules.
+
+By using INSERT commands to add security features to existing tables.
+
+Q No: 13
+Correct Answer
+Marks: 1/1
+
+How does the ROLLBACK command affect a transaction in SQL Server?
+It makes all changes made during the transaction permanent.
+
+It creates a backup of the database.
+
+It cancels the current transaction and undoes any changes made.
+
+You Selected
+It saves changes to the database without committing.
+
+Q No: 14
+Correct Answer
+Marks: 1/1
+
+What is the primary difference between the TRUNCATE TABLE and DELETE commands?
+TRUNCATE TABLE can be rolled back, while DELETE cannot.
+
+TRUNCATE TABLE removes all rows from a table without logging individual row deletions, whereas DELETE removes rows one at a time and logs each deletion.
+
+You Selected
+DELETE is faster than TRUNCATE TABLE for large tables.
+
+TRUNCATE TABLE allows for selective deletion of rows, while DELETE removes all rows.
+
+Q No: 15
+Correct Answer
+Marks: 1/1
+
+When would you use the ALTER TABLE command with the ADD CONSTRAINT option?
+To enforce a constraint such as a primary key or foreign key on an existing table.
+
+You Selected
+To rename a table.
+
+To drop an existing column from a table.
+
+To add a new column to a table.
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
