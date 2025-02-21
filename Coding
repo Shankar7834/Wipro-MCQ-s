@@ -1,1 +1,174 @@
+Write a C# program that takes an array of strings as input, concatenates all the elements into a single string, extracts numeric characters from the concatenated
+string, and calculates the maximum, minimum, and difference between the extracted numeric values. If no numeric characters are found, return 0 for
+maximum, minimum, and difference.
+-------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
+class Program
+{
+    static void Main()
+    {
+        // User input for the array
+        Console.WriteLine("Enter the elements of the array separated by spaces:");
+        string[] inputArray = Console.ReadLine().Split(' ');
+
+        // Step 1: Concatenate all elements of the array into a single string
+        string concatenatedString = string.Join("", inputArray); // More efficient way to concatenate
+        Console.WriteLine($"Concatenated String: {concatenatedString}");
+
+        // Step 2: Extract all numeric characters from the concatenated string
+        List<int> extractedNumbers = new List<int>();
+        foreach (char c in concatenatedString)
+        {
+            if (char.IsDigit(c))
+            {
+                extractedNumbers.Add(int.Parse(c.ToString())); // Convert char to int
+            }
+        }
+
+        // Display extracted numbers
+        Console.WriteLine("Extracted Numbers: [" + string.Join(", ", extractedNumbers) + "]");
+
+        // Check if any numbers were extracted
+        if (extractedNumbers.Count > 0)
+        {
+            // Step 3: Find the maximum and minimum numbers
+            int maximumNumber = extractedNumbers.Max(); // Use LINQ for max and min
+            int minimumNumber = extractedNumbers.Min();
+            Console.WriteLine($"Maximum Number: {maximumNumber}");
+            Console.WriteLine($"Minimum Number: {minimumNumber}");
+            Console.WriteLine($"Difference: {maximumNumber - minimumNumber}");
+        }
+        else
+        {
+            // Handle the case where no numbers are found
+            Console.WriteLine("Maximum Number: 0");
+            Console.WriteLine("Minimum Number: 0");
+            Console.WriteLine("Difference: 0");
+        }
+    }
+}
+==============================================================================================================================================================
+Question :2
+Write a C# program to perform the following operations on a given string:
+1. Check Substring: Verify if a given substring exists in the main string.
+2. Replace Characters: Replace all occurrences of a specified character in the string with another character.
+3. Swap Case: Convert uppercase characters to lowercase and lowercase characters to uppercase in the string.
+4. Remove Whitespace: Remove all whitespace characters from the string.
+5. Count Letters: Count the frequency of each letter (ignoring case) in the string.
+1. Input 1: The main string.
+2. Input 2: The substring to check.
+3. Input 3: The character to be replaced.
+4. Input 4: The replacement character.
+------------------------------
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        // Input 1: Main String
+        string mainString = GetInput("Enter the main string:");
+        // Input 2: Substring
+        string substring = GetInput("Enter the substring to check:");
+        // Input 3: Character to be replaced
+        char charToReplace = GetInput("Enter the character to replace:")[0];
+        // Input 4: Character to replace with
+        char replacementChar = GetInput("Enter the replacement character:")[0];
+
+        bool substringExists = CheckSubstringExists(mainString, substring);
+        string replacedString = ReplaceCharacter(mainString, charToReplace, replacementChar);
+        string caseSwapped = SwapCase(mainString);
+        string noSpaces = RemoveWhitespace(mainString);
+        Dictionary<char, int> letterCount = CountLetters(mainString);
+
+        Console.WriteLine($"Substring Exists: {(substringExists ? "Yes" : "No")}");
+        Console.WriteLine($"Replaced: {replacedString}");
+        Console.WriteLine($"Case Swapped: {caseSwapped}");
+        Console.WriteLine($"No Spaces: {noSpaces}");
+        Console.WriteLine($"Letter Count: {string.Join(", ", letterCount.Select(kvp => $"{kvp.Key}: {kvp.Value}"))}");
+    }
+
+    static string GetInput(string prompt)
+    {
+        Console.WriteLine(prompt);
+        return Console.ReadLine();
+    }
+
+    static bool CheckSubstringExists(string main, string sub)
+    {
+        return main.Contains(sub);
+    }
+
+    static string ReplaceCharacter(string input, char oldChar, char newChar)
+    {
+        return input.Replace(oldChar, newChar);
+    }
+
+    static string SwapCase(string input)
+    {
+        char[] result = input.ToCharArray();
+        for (int i = 0; i < result.Length; i++)
+        {
+            if (char.IsLower(result[i]))
+            {
+                result[i] = char.ToUpper(result[i]);
+            }
+            else if (char.IsUpper(result[i]))
+            {
+                result[i] = char.ToLower(result[i]);
+            }
+        }
+        return new string(result);
+    }
+
+    static string RemoveWhitespace(string input)
+    {
+        return input.Replace(" ", "");
+    }
+
+    static Dictionary<char, int> CountLetters(string input)
+    {
+        Dictionary<char, int> counts = new Dictionary<char, int>();
+        foreach (char c in input.ToLower()) // Count case-insensitively
+        {
+            if (char.IsLetter(c)) // Only count letters
+            {
+                if (counts.ContainsKey(c))
+                {
+                    counts[c]++;
+                }
+                else
+                {
+                    counts[c] = 1;
+                }
+            }
+        }
+        return counts;
+    }
+}
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
+==============================================================================================================================================================
