@@ -3246,5 +3246,2277 @@ To drop an existing column from a table.
 
 To add a new column to a table.
 ---------------------------------------------------------------------------------------------------------------------------
+Attempt #5
+Feb 17, 6:27 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+For <img src="sachin.jpg" alt="sachin-cricket-India" width="500" height="600">
+None
+
+no matters img can be in D drive
+
+example of absolute path img should be in same path where html file and if img tag is some how unable to load the image then alternative text “Sachin-cricketer-indian” will be displayed
+
+You Selected
+alt is incorrectly used
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+Tag which is considered as root element of any HTML page is
+<body>
+
+<head>
+
+<html>
+
+You Selected
+<div>
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+For the CSS selector which is correct
+# -> id selector more priority
+
+. ->class selector kind of group selector
+
+both A and B correct
+
+You Selected
+only A is correct
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+ Can we create custom tag in HTML?
+Yes
+
+You Selected
+No
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+ <style>
+
+.topnav {
+
+  overflow: hidden;
+
+  background-color: red;
+
+}
+
+.topnav a {
+
+  float: left;
+
+  display: block;
+
+  }
+
+@media screen and (max-width: 300px) {
+
+  .topnav a {
+
+    float: none;
+
+    width: 100%;
+
+  }}
+
+</style> 
+
+</head>
+
+<body>
+
+<h2>Responsive navigation menu</h2>
+
+<div>
+
+  <a href="https://www.google.com/" target="_self">Link</a>
+
+  <a href="#aboutus" class="aboutus" target="_blank">Link2</a>
+
+  <a href="#">Link</a>
+
+</div>
+
+<div id="aboutus">
+
+IN GL-2022 new prgsm to deliver and construct in pipeline.
+
+</div>
+
+ 
+
+Choose correct-
+
+here media query syntax is incorrect
+
+for all screens navigation hyperlink will be horizontal
+
+for all screens navigation hyperlink will be vertical
+
+for screen’s browser window if resizes and <= 300 px then screens navigation hyperlink will be vertical.
+
+You Selected
+for screen’s browser window if resizes and > 300 px then screens navigation hyperlink will be vertical.
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Assume code having proper syntax and format
+
+<head>
+
+<style>
+
+* {
+
+background-color: blue;
+
+}
+
+.intro{
+
+background-color: grey;
+
+}
+
+#firstname {
+
+  background-color: yellow;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Demo of the #id selector</h1>
+
+<div class="intro">
+
+  <p id="firstname">My name is Donald.</p>
+
+  <p class="intro">I live in Duckburg.</p>
+
+</div>
+
+<p>My best friend is Mickey.</p>
+
+</body>
+
+Choose correct when rendered in browser
+
+I live in Duckburg-grey
+
+whole background color will be blue
+
+My name is Donald-yellow
+
+All A,B,C correct
+
+You Selected
+Question 7
+Correct Answer
+Marks: 1/1
+
+<th> tag is used for____
+Table creation
+
+Table data
+
+Table header
+
+You Selected
+Data in the table
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+____ is used to mark or highlight the text?
+<m>
+
+<h>
+
+<mark>
+
+You Selected
+<high>
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+Which of the following is to break the line.?
+<b>
+
+<bl>
+
+<br>
+
+You Selected
+<BL>
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+ Assume code for CSS focused for inline and internal CSS-
+
+<head>
+
+<style>
+
+h2 ,p{
+
+  background-color: yellow;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<script>
+
+var ar;
+
+ar=89;
+
+console.log(ar);
+
+</script>
+
+<h2>heading2</h2>
+
+<p style="background-color:green">HCL</p>
+
+<p style="background-color:red">INFI</p>
+
+</body>
+
+Choose correct-
+
+heading2-yellow,HCL-yellow,INFI-yellow
+
+Incorrect code
+
+heading2-yellow,HCL-green,INFI-red
+
+You Selected
+heading2-yellow,HCL-yellow,INFI-Red
+
+None
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+For html page view like this –
+Juice
+
+Orange
+mango
+Milk
+
+white drink
+
+Choose correct code-
+
+<dl> <dt>Juice</dt> <dd><ol start="3"><li>Orange</li><li>mango</li></ol></dd> <dt>Milk</dt> <dd>white drink</dd> </dl>
+
+<dl> <dt>Juice</dt> <dd><ol index="3"><li>Orange</li><li>mango</li></ol></dd> <dt>Milk</dt> <dd>white drink</dd> </dl>
+
+You Selected
+<dl> <dt>Juice</dt> <dd><li index=”3”>Orange</li><li>mango</li></dd> <dt>Milk</dt> <dd>white drink</dd> </dl>
+
+none of above
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+For Label which is correct
+The <label> element is useful for screen-reader users
+
+The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together
+
+The for attribute of the <label> tag should be equal to the name attribute of the <input> element to bind them together.
+
+A and B
+
+You Selected
+Question 13
+Correct Answer
+Marks: 1/1
+
+Tags used for creating list_____?
+<li>
+
+<ul>
+
+<ol>
+
+All the above
+
+You Selected
+Question 14
+Correct Answer
+Marks: 1/1
+
+* {
+  text-align: center;
+  color: blue;
+}
+
+In above CSS code-
+
+Choose correct-
+
+example of class selector
+
+example of id selector
+
+example of attribute selector
+
+example of universal selector,style will be apply to all the tags .
+
+You Selected
+Question 15
+Correct Answer
+Marks: 1/1
+
+For Creating such HTML table-
+
+NOTE : Ignore table border
+
+Quiz 1.png
+
+
+
+
+Choose correct code-
+
+ 
+
+<table style="width:30%"> <tr><th>Name</th> <td>Harsh</td></tr> <tr><th > <td rowspan="2">Phone</th> <td colspan=1>88888888</td></tr> <tr><td>999999</td> </tr> </table>
+
+<table style="width:30%"> <tr><th>Name</th> <td>Harsh</td></tr> <tr><th rowspan="2">Phone</th> <td>88888888</td></tr> <tr><td>999999</td> </tr> </table>
+
+You Selected
+None
+
+can’t be done
 ---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 17, 6:35 PM
+Marks: 10
+Question 1
+Correct Answer
+Marks: 1/1
+
+External css uses which tag?
+Link
+
+You Selected
+Style
+
+Src
+
+none
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+Which element is used to define id in CSS?
+*
+
+.
+
+#
+
+You Selected
+$
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+Which of the following is correct way to use comments in CSS
+/* */
+
+You Selected
+//
+
+#
+
+/
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+What is extension for CSS file
+.css
+
+You Selected
+.htm
+
+.csstext
+
+.cs
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which property is used to set border
+Border
+
+Border-style
+
+You Selected
+border-css
+
+border-setting
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+What is not true about External Style Sheet?
+It's extension is .css
+
+It is referenced in HTML through <src> tab
+
+You Selected
+It is referenced in HTML through <link> tab
+
+We can add styles in HTML through different ways other than External Style Sheets.
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+ 
+Which of the following tags doesn’t require a closing tag?
+ 
+
+ 
+
+<br>
+
+<hr>
+
+Both A and B
+
+You Selected
+None of the above
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+Which of the following is not a CSS property?
+Background
+
+Border
+
+Plains
+
+You Selected
+Color
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+Which of the following is type of a selector
+Universal Selector
+
+Attribute selector
+
+ID selector
+
+All of the above
+
+You Selected
+Question 10
+Correct Answer
+Marks: 1/1
+
+Which CSS property will be used to wrap text block around an image?
+index
+
+align
+
+float
+
+You Selected
+wrap
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 18, 5:34 PM
+Marks: 10
+Question 1
+Correct Answer
+Marks: 1/1
+
+What will happen, if the following JavaScript code is executed?
+
+var count =0;  
+
+while (count <10)  
+
+{  
+
+     console.log(count);  
+
+     count++;  
+
+}  
+
+An error is displayed
+
+An exception is thrown
+
+The values of count variable will not be logged
+
+The value of count from 0 to 9 is displayed in the console
+
+You Selected
+Question 2
+Correct Answer
+Marks: 1/1
+
+Predict the outcome of the following:
+
+<div id="output"></div>
+
+<script>
+
+var num1 = 20;
+
+num1 *= 4;
+
+document.getElementById("output").innerHTML = "Output is "+num1;
+
+</script>
+
+Output is 4
+
+Output is 18
+
+Output is 16
+
+Output is 80
+
+You Selected
+Question 3
+Correct Answer
+Marks: 1/1
+
+ In javascript, DOM stands for _________________?
+Document Objective Model
+
+Document Object Manipulation
+
+Document Object Model
+
+You Selected
+None of these
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+Which among the following is a valid datatype in javascript?
+Number
+
+Null
+
+Undefined
+
+All of the mentioned
+
+You Selected
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which of the following statement is incorrect in Javascript?
+const should be used, if no changes in values are expected
+
+var keyword should be preferably used for old browsers
+
+const should be used whenever the type should be changed
+
+You Selected
+None of the mentioned
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Select invalid JavaScript datatype from the following : 
+Constructor
+
+You Selected
+Array
+
+Object
+
+Date
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+Which of the following scope is not available in javascript
+Function scope
+
+Block scope
+
+NullGlobal scope
+
+You Selected
+None of the above
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is not true about JS functions ?
+Functions can be assigned to a variable in JS
+
+Functions can be returned from another function in JS
+
+Functions can be passed as arguments to another function in JS
+
+All the above are true
+
+You Selected
+Question 9
+Correct Answer
+Marks: 1/1
+
+Which of following is true:
+Functions are first class objects in JS
+
+JS is case-sensitive.
+
+Java-script has Objects.
+
+All of the mentioned
+
+You Selected
+Question 10
+Correct Answer
+Marks: 1/1
+
+Select the outcome for the snippet of code:
+
+    let var1 = '101';
+
+    let var2 =var1= 909;
+
+    alert( var1 + var2 );
+
+1818
+
+You Selected
+10909
+
+Undefined
+
+All of the above
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #3
+Feb 19, 5:50 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+When using async and await, what happens if a promise is rejected?
+An error is thrown
+
+You Selected
+The execution continues without interruption
+
+The program crashes
+
+The promise is automatically retried
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+Which Fetch API method allows you to intercept and modify HTTP requests and responses?
+fetch.interceptor()
+
+fetch.modify()
+
+fetch.intercept()
+
+You Selected
+fetch.extend()
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+What does the final statement do in JavaScript error handling?
+It defines a block of code to be executed if an error occurs
+
+It defines a block of code to be executed regardless of the try...catch result
+
+You Selected
+It throws an error
+
+It handles errors that occur in a block of code
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the Module Pattern in JavaScript?
+To create encapsulated modules with private and public methods
+
+You Selected
+To create multiple instances of an object
+
+To define constructors
+
+To handle errors
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+What is the primary purpose of JSON?
+To create dynamic web pages
+
+To define styles for web elements
+
+To exchange data between a server and a web application
+
+You Selected
+To manage server-side logic
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+In JavaScript, what does the async keyword do when used with a function?
+Defines a function that returns a promise
+
+Defines a function that can be awaited asynchronously
+
+You Selected
+Defines a function that executes synchronously
+
+Defines a function that can't return anything
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What are JavaScript design patterns?
+Reusable solutions to commonly occurring problems in software design
+
+You Selected
+Random pieces of code
+
+Predefined functions in JavaScript
+
+Programming languages
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the await keyword in JavaScript?
+It is used to pause the execution of a function until a promise is resolved
+
+You Selected
+It is used to cancel a promise
+
+It is used to create a new promise
+
+It is used to wait for a specific time interval
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+What does the Response object represent in the Fetch API?
+The request body
+
+The server response to an HTTP request
+
+You Selected
+An error message
+
+The request headers
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+How can you install JSON Server using npm?
+npm install server-json
+
+npm install json-server
+
+You Selected
+npm setup-json-server
+
+npm server-json-install
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+Which design pattern is used to ensure that only one instance of a class is created?
+Singleton Pattern
+
+You Selected
+Prototype Pattern
+
+Factory Pattern
+
+Observer Pattern
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+How do you catch errors in JavaScript?
+Using the throw statement
+
+Using the try...catch statement
+
+You Selected
+Using the finally statement
+
+Using the return statement
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+What is an Error object in JavaScript?
+An object that represents an error occurring during the execution of code
+
+You Selected
+An object that represents a success message
+
+An object that represents a warning message
+
+An object that represents a debug message
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+Which method is used to throw a new error in JavaScript?
+throwError()
+
+new Error()
+
+throw new Error()
+
+You Selected
+error()
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+In JSON, what is the correct way to represent a key-value pair?
+"key" = "value"
+
+'key' -'value'
+
+key : value
+
+You Selected
+key -> value
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 19, 6:01 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+What is TypeScript known for among developers?
+Being a subset of JavaScript
+
+Adding static typing to JavaScript
+
+You Selected
+Enhancing browser performance
+
+Providing a simpler syntax for JavaScript
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+In TypeScript, what is the purpose of variable hoisting?
+To automatically declare variables at the beginning of the scope
+
+You Selected
+To prioritize certain variables over others in the same scope
+
+To initialize variables with default values
+
+To dynamically allocate memory for variables
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes the use of classes in TypeScript?
+Classes are not supported in TypeScript
+
+Classes provide a way to define objects and their behavior
+
+You Selected
+Classes are used for conditional statements in TypeScript
+
+Classes are only used for type annotations in TypeScript
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+What is the primary advantage of using interfaces in TypeScript?
+They allow for better code organization and readability
+
+You Selected
+They enable the declaration of variables without specifying their types
+
+They provide a way to implement inheritance in TypeScript
+
+They are used for loop iterations in TypeScript
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+How does TypeScript's functional scoring system impact code execution?
+It assigns scores to functions based on their complexity
+
+It determines the priority of function execution in asynchronous code
+
+It calculates the efficiency of functions based on the number of arguments
+
+It evaluates functions based on their return types and parameter types
+
+You Selected
+Question 6
+Correct Answer
+Marks: 1/1
+
+Which of the following statements about TypeScript's advantages over JavaScript is false?
+TypeScript allows for static type checking
+
+TypeScript provides better tooling support for large-scale applications
+
+TypeScript has better runtime performance compared to JavaScript
+
+You Selected
+TypeScript enables the use of modern ECMAScript features in older browsers
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What is the main difference between a constructor and a method in TypeScript classes?
+Constructors are used to initialize class instances, while methods are used to define class behavior
+
+You Selected
+Constructors are static, while methods are instance-specific
+
+Constructors can be inherited, while methods cannot
+
+Constructors are defined outside of classes, while methods are defined inside
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+In TypeScript, what is the purpose of using iterators?
+To loop through arrays and objects
+
+You Selected
+To convert data types between maps and arrays
+
+To manage memory allocation in complex data structures
+
+To define asynchronous operations in code
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+How does implementing interfaces differ from extending classes in TypeScript?
+Interfaces are used for type checking, while classes are used for inheritance
+
+You Selected
+Interfaces provide method implementations, while classes provide type declarations
+
+Interfaces are optional, while class extension is mandatory for inheritance
+
+Interfaces allow for multiple inheritances, while classes only support single inheritance
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+Which of the following accurately describes the hands-on practice for implementing classes with methods and constructors in TypeScript?
+Writing code to create new instances of classes and calling their methods
+
+You Selected
+Implementing complex algorithms using iterative loops and conditional statements
+
+Designing user interfaces with HTML and CSS
+
+Configuring server-side logic with Node.js and Express
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+When would you typically use a map instead of an array in TypeScript?
+When you need to store key-value pairs
+
+You Selected
+When you need to perform sequential operations on data
+
+When you need to ensure unique values in the collection
+
+When you need to sort the data based on specific criteria
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+How does TypeScript help in detecting errors during development compared to JavaScript?
+TypeScript provides compile-time error checking, whereas JavaScript only checks errors at runtime
+
+You Selected
+TypeScript enables real-time error notifications in the browser console
+
+TypeScript automatically fixes syntax errors in the code
+
+TypeScript highlights errors with red squiggly lines in the code editor
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+Which of the following statements about TypeScript's support for optional chaining is true?
+Optional chaining allows accessing nested properties without checking for existence, preventing runtime errors
+
+You Selected
+Optional chaining is only supported in older versions of TypeScript
+
+Optional chaining must be explicitly enabled in the TypeScript compiler settings
+
+Optional chaining is a deprecated feature in TypeScript
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+How does TypeScript handle type inference?
+TypeScript infers the types of variables based on their usage and context
+
+You Selected
+TypeScript requires explicit type annotations for all variables
+
+TypeScript automatically converts all variables to the 'any' type
+
+TypeScript restricts the usage of implicit typing to built-in data types only
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes the purpose of functional scoring in TypeScript?
+To evaluate the complexity and efficiency of functions
+
+You Selected
+To assign priority levels to functions based on their return types
+
+To enforce strict typing rules for function parameters
+
+To generate a scorecard for functions based on their usage in the codebase
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 20, 5:32 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+When comparing Node.js with other server-side technologies like Java or Python, which of the following statements is true?
+Node.js is based on Java.
+
+Node.js has a slower runtime compared to Python.
+
+Node.js utilizes a non-blocking, event-driven architecture.
+
+You Selected
+Node.js is primarily used for frontend development.
+
+Explanation: One of the key differences between Node.js and other server-side technologies is its event-driven, non-blocking I/O model, which allows for high concurrency and scalability.
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+What is one advantage of using Node.js?
+Limited scalability
+
+Lack of community support
+
+Faster execution of I/O operations
+
+You Selected
+Inability to handle real-time applications
+
+Explanation: Node.js excels in handling I/O-bound operations with its non-blocking architecture, leading to faster performance in tasks such as file system operations and network requests.
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+What is the correct way to import the http module in a Node.js script?
+import http from 'http';
+
+require('http');
+
+You Selected
+include('http');
+
+import { http } from 'http';
+
+Explanation: In Node.js, modules are imported using the require function.
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+What does the npm command do in Node.js?
+Installs dependencies
+
+You Selected
+Runs Node.js scripts
+
+Removes Node.js modules
+
+Updates Node.js version
+
+Explanation: npm is the Node Package Manager, primarily used for installing and managing dependencies in Node.js projects.
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which npm command is used to install a package and save it as a dependency in package.json?
+npm install
+
+npm add
+
+npm save
+
+npm install --save
+
+You Selected
+Explanation: npm install --save <package-name> installs a package and saves it as a dependency in the package.json file.
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+What is required to set up the environment for Node.js development?
+A web browser
+
+Node.js runtime environment
+
+You Selected
+A database server
+
+A text editor
+
+Explanation: Node.js is a JavaScript runtime environment that allows you to run JavaScript on the server side. To set up the environment for Node.js development, you need to install Node.js on your system.
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What is event-driven programming in Node.js?
+A programming paradigm based on conditional statements
+
+A programming paradigm that emphasizes function composition
+
+A programming paradigm that focuses on object-oriented design
+
+A programming paradigm based on events and event listeners
+
+You Selected
+Explanation: Node.js is event-driven, meaning it uses events and event listeners to handle asynchronous operations.
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the require() function in Node.js?
+To include external JavaScript files
+
+To load built-in Node.js modules
+
+You Selected
+To execute shell commands
+
+To define variables
+
+Explanation: The require() function is used to import modules in Node.js, including built-in modules and external modules installed via npm.
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+What is Node.js?
+A web browser
+
+A programming language
+
+A server-side JavaScript runtime environment
+
+You Selected
+A database management system
+
+Explanation: Node.js is a runtime environment that allows you to run JavaScript code on the server-side.
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+Who developed Node.js?
+Google
+
+Microsoft
+
+Facebook
+
+Joyent
+
+You Selected
+Explanation: Node.js was initially developed by Ryan Dahl at Joyent in 2009.
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+What is npm?
+Node Package Manager
+
+You Selected
+New Programming Module
+
+Node Project Manager
+
+Node Package Module
+
+Explanation: npm is the default package manager for Node.js, used for managing dependencies and packages in Node.js projects.
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+Which module is used for file system operations in Node.js?
+fs
+
+You Selected
+HTTP
+
+path
+
+URL
+
+Explanation: The fs (File System) module is used for file system operations like reading and writing files.
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a feature of Node.js?
+Non-blocking I/O
+
+Asynchronous and event-driven
+
+Blocking I/O
+
+You Selected
+Single-threaded
+
+Explanation: Node.js utilizes non-blocking I/O, which means it doesn't block execution during I/O operations.
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a valid HTTP method in Node.js?
+GET
+
+EXECUTE
+
+You Selected
+POST
+
+DELETE
+
+Explanation: EXECUTE is not a standard HTTP method. GET, POST, and DELETE are commonly used HTTP methods.
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+What is the output of the following Node.js code?
+
+console.log(__dirname);
+
+Current working directory
+
+You Selected
+Parent directory
+
+File path of the executed script
+
+File name
+
+Explanation: __dirname variable contains the path of the directory where the currently executing script resides.
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 20, 7:26 PM
+Marks: 14
+Question 1
+Correct Answer
+Marks: 1/1
+
+What is the significance of the useState hook in React?
+It allows adding state management in functional components
+
+You Selected
+It manages the global state of the application
+
+It handles API calls
+
+It replaces class-based components entirely
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+What is the primary purpose of components in a React application?
+To manage and control the database
+
+To define reusable UI elements
+
+You Selected
+To handle HTTP requests
+
+To control the back-end API
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+How does React achieve faster rendering compared to traditional DOM updates?
+By using real-time WebSockets
+
+By using Virtual DOM and diffing algorithms
+
+You Selected
+By pre-rendering pages on the server
+
+By using built-in caching mechanisms
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+What is the purpose of JSX in React?
+A JavaScript syntax extension that allows writing HTML-like code
+
+You Selected
+A template engine like Handlebars
+
+A function for making API calls
+
+A built-in CSS preprocessor
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+In which phase of the React component lifecycle does componentWillUnmount() execute?
+Initialization
+
+Mounting
+
+Updating
+
+Unmounting
+
+You Selected
+Question 6
+Correct Answer
+Marks: 1/1
+
+What is the correct way to define a functional component in React?
+
+function Greeting() {
+return <h1>Hello, World!</h1>;
+}
+Valid React functional component
+
+You Selected
+Invalid, missing render() method
+
+Invalid, function keyword cannot be used
+
+Invalid, requires class-based syntax
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What is the role of React Router in SPA (Single Page Applications)?
+To handle navigation without reloading the page
+
+You Selected
+To manage backend API calls
+
+To store session data
+
+To validate form inputs
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a difference between React and Angular?
+React is a library, while Angular is a framework
+
+React uses a Virtual DOM, whereas Angular uses a Real DOM
+
+React supports one-way data binding, while Angular supports two-way data binding
+
+React does not support reusable components, whereas Angular does
+
+You Selected
+Question 9
+Incorrect Answer
+Marks: 0/1
+
+What is the difference between functional and class components in React?
+Functional components cannot have state, while class components can
+
+Class components require lifecycle methods, whereas functional components use hooks
+
+Correct Option
+Functional components are not reusable, whereas class components are
+
+Class components are only used for backend operations
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes the Virtual DOM in React?
+A lightweight copy of the real DOM that helps in efficient updates
+
+You Selected
+A separate database used for caching UI components
+
+A JavaScript function that renders UI elements
+
+A debugging tool for React applications
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+Which of the following is a key feature of React?
+Two-way data binding
+
+Virtual DOM for efficient rendering
+
+You Selected
+Built-in dependency injection
+
+Server-side rendering by default
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+Which type of component lifecycle method is called only once in a class component?
+componentDidMount()
+
+You Selected
+componentWillUnmount()
+
+componentDidUpdate()
+
+shouldComponentUpdate()
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+What is the primary reason developers prefer React for UI development?
+React applications require no JavaScript
+
+React components are reusable and maintainable
+
+You Selected
+React is the only library that supports front-end development
+
+React applications do not require state management
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+What is React?
+A JavaScript framework for building mobile applications
+
+A JavaScript library for building user interfaces
+
+You Selected
+A CSS framework for styling web applications
+
+A database management system
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+When should React be preferred over Angular?
+When building large enterprise applications with strict architecture
+
+When developing lightweight, component-based, and highly interactive UIs
+
+You Selected
+When handling heavy backend processes and business logic
+
+When requiring built-in form validation and dependency injection
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 20, 7:44 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+Why should you avoid copying the values of props into a component's state?
+Because you want to allow data to flow back up to the parent
+
+Because you should never mutate state
+
+Because prop values cannot be stored in state
+
+Because that would create two instances of the same state that could become out of sync
+
+You Selected
+Question 2
+Correct Answer
+Marks: 1/1
+
+What does myReactApp refer to in the following command?
+
+npx create-react-app myReactApp
+
+The type of app to create
+
+The name you want to use for the new app
+
+A reference to an existing app
+
+You Selected
+The directory to create the new app in
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+Which operator can be used to conditionally render a React component?
+??
+
+||
+
+&&
+
+You Selected
+::
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+To develop and run React code, Node.js is required.
+True
+
+You Selected
+False
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+How many elements can a valid react component return?
+4
+
+2
+
+3
+
+1
+
+You Selected
+Question 6
+Correct Answer
+Marks: 1/1
+
+What tool does React use to compile JSX?
+React router
+
+Babel
+
+You Selected
+ReactDOM
+
+JSX Compiler
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+A copy of the 'real' DOM that is kept in memory is called what?
+DOM
+
+Shadow DOM
+
+Virtual DOM
+
+You Selected
+React DOM
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+React separates the user interface into components. How are components combined to create a user interface?
+By nesting components
+
+You Selected
+With webpack
+
+With code splitting
+
+By putting them in a folder structure
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+React can only render elements in the root document element.
+True
+
+False
+
+You Selected
+Question 10
+Correct Answer
+Marks: 1/1
+
+What props will be available to the following component?
+all of them
+
+You Selected
+only static ones
+
+only updated once
+
+children
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+How can you optimise performance for a function component that always renders the same way?
+Wrap it in the React.memo higher-order component.
+
+You Selected
+Use the useMemo Hook
+
+Use the useReducer Hook.
+
+Use the shouldComponentUpdate lifecycle method.
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+In MVC, what does React.js act as?
+Controller
+
+You Selected
+Middleware
+
+Model
+
+Router
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+ 
+
+ind the bug in this code:
+ 
+
+function car({make, model}) {
+
+  return <h1>{make} {model}</h1>;
+
+};
+
+wrap the return in a fragment
+
+Add parenthesis around round bracket
+
+The first letter of the function must be capitalized
+
+You Selected
+remove return statement
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+What is the correct syntax to import a Component from React?
+import Component from 'react'
+
+import { Component } from 'react'
+
+You Selected
+import [Component] from 'react'
+
+import React.Component from 'react
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+What is the children prop?
+A property that adds child values to state
+
+A property that lets you nest components in other components
+
+A property that lets you set an object as a property
+
+You Selected
+A property that lets you pass data to child components
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #1
+Feb 23, 1:25 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+How do you clean up a side effect in useEffect?
+
+useEffect(() => {
+const interval = setInterval(() => {
+console.log("Running");
+}, 1000);
+
+return () => clearInterval(interval);
+}, []);
+By returning a cleanup function inside useEffect
+
+You Selected
+By calling clearInterval outside useEffect
+
+By setting the state to null
+
+No cleanup is needed
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+What does useEffect do in React?
+It replaces setState for managing local component state
+
+It allows performing side effects in functional components
+
+You Selected
+It handles component rendering
+
+It updates the component state synchronously
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+When does a useEffect function run if no dependencies are provided?
+
+useEffect(() => {
+console.log("Effect ran");
+}, []);
+Runs only once when the component mounts
+
+You Selected
+Runs on every render
+
+Never runs
+
+Runs only when a specific event is triggered
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a built-in React Hook?
+useState
+
+useEffect
+
+useReducer
+
+useRedux
+
+You Selected
+Question 5
+Correct Answer
+Marks: 1/1
+
+What is useContext used for?
+To access context values without using the Context.Consumer
+
+You Selected
+To replace useState for managing local state
+
+To fetch data from an API
+
+To create a new global state
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+What does the useState hook return?
+
+const [count, setCount] = useState(0);
+
+A single variable that stores state
+
+A stateful value and a function to update it
+
+You Selected
+A function that only updates state
+
+A promise that resolves to the state value
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What is the correct way to update state using useState?
+
+const [count, setCount] = useState(0);
+
+count = count + 1;
+
+setCount(count++);
+
+setCount(count + 1);
+
+You Selected
+count.update(1);
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is the main benefit of refactoring class components to functional components with hooks?
+Reduced code complexity and better readability
+
+You Selected
+Improved performance by default
+
+Functional components cannot use state
+
+Hooks are faster than class-based lifecycle methods
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+What will be logged in the console when clicking the button in the following component?
+
+function Counter() {
+const [count, setCount] = useState(0);
+
+useEffect(() => {
+console.log(`Count updated: ${count}`);
+}, [count]);
+
+return (
+<button onClick={() => setCount(count + 1)}>Click me</button>
+);
+}
+Logs Count updated: 1, Count updated: 2, etc., every time the button is clicked
+
+You Selected
+Logs Count updated: 0 once and never updates
+
+Logs Count updated: 0 on every render
+
+Throws an error because useEffect cannot access state
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+How can you optimize performance when using useEffect?
+Provide a dependency array to prevent unnecessary re-execution
+
+You Selected
+Always leave the dependency array empty
+
+Use useEffect inside useState
+
+Use useState instead of useEffect
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+What lifecycle method does useEffect replace in class components?
+componentDidMount, componentDidUpdate, and componentWillUnmount
+
+You Selected
+componentWillReceiveProps only
+
+shouldComponentUpdate only
+
+render method
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+How do you provide a global state using the Context API?
+
+const ThemeContext = React.createContext('light');
+
+useState(ThemeContext)
+
+<ThemeContext.Provider value="dark">...</ThemeContext.Provider>
+You Selected
+<ThemeContext value="dark">...</ThemeContext>
+useContext(ThemeContext, "dark")
+Question 13
+Correct Answer
+Marks: 1/1
+
+What is the correct way to run an effect only when a specific state variable changes?
+
+useEffect(() => {
+console.log(count);
+}, [count]);
+
+Runs only when count changes
+
+You Selected
+Runs on every render
+
+Runs only on component mount
+
+Runs on mount and when any state updates
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+What is the main purpose of React Hooks?
+To manage global state in a Redux store
+
+To allow functional components to use state and lifecycle methods
+
+You Selected
+To replace all React class components
+
+To handle API requests
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+How do you access a context value inside a functional component?
+
+const theme = useContext(ThemeContext);
+Using useContext(ThemeContext)
+
+You Selected
+Using useState(ThemeContext)
+
+Using useEffect(ThemeContext)
+
+Using ThemeContext.Provider
+---------------------------------------------------------------------------------------------------------------------------
+Attempt #2
+Feb 23, 1:15 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+In relation to React js component lifecycle, which statement is true
+only function component can have a life cycle
+
+Only class components can have life cycle
+
+You Selected
+Both types of components can have life cycle
+
+None of above
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+When is useReducer used over useState in React component?
+When we want replace flux
+
+You Selected
+when we want break our production app
+
+when we want to improve our performance
+
+none of the above
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+What is the protocol used in REST?
+FTP
+
+HTTP
+
+You Selected
+JMX
+
+SOAP
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+In ReactJS, what is State?
+It's a temporary storage of the elements
+
+It's a state of the execution of the ReactJS application
+
+It's an internal storage of the components
+
+You Selected
+All of the above
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which is the object on which the event occurred or with which the event is associated?
+event type
+
+event target
+
+You Selected
+both event type and event target
+
+interface
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Why is useLayoutEffect used?
+To complete the update
+
+to optimize for all device
+
+To change the layout of the screen
+
+when you need the browser to paint before the effectors.
+
+You Selected
+Question 7
+Correct Answer
+Marks: 1/1
+
+Choose the component which should be overridden to stop the component from updating
+componentDidUpdate
+
+componentDidMount
+
+willComponentUpdate
+
+shouldComponentUpdate
+
+You Selected
+Question 8
+Correct Answer
+Marks: 1/1
+
+Which of the following function is used to change the state of the React.js component?
+his.setChangeState
+
+this. State{}
+
+this.setState
+
+You Selected
+None of the above
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+Why is ref used?
+To bind the function
+
+to call function
+
+to directly access the Dom node
+
+You Selected
+to refer to another JS file
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+In which of the following condition, the React.js Lifecycle method static getDerivedSateFromProps (props, state) is called?
+The component is created for the first time.
+
+The state of the component is updated.
+
+Both of the above
+
+You Selected
+None of the above
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+The state in react can be updated by call to setState method. These calls are
+Synchronous in nature
+
+You Selected
+Asynchronous in nature
+
+Are asynchronous but can be made synchronous when required
+
+None of the above
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+How many stages are there in React js life cycle?
+1
+
+2
+
+3
+
+You Selected
+0
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+Which of the following are the advantages of React.js?
+React.js can increase the application&#39;s performance with Virtual DOM.
+
+.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library.
+
+React.js can render both on the client and server side
+
+All of the above
+
+You Selected
+Question 14
+Correct Answer
+Marks: 1/1
+
+We can update the state in React.js by calling to setState() method. These calls are__________
+Asynchronous in nature
+
+You Selected
+Synchronous in nature
+
+Are asynchronous but can be made synchronous when required
+
+None of the these
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+Which HTTP method do we use to make an HTTP request to update an existing resource?
+POST
+
+You Selected
+PUT
+
+UPDATE
+
+DELETE
 ---------------------------------------------------------------------------------------------------------------------------
