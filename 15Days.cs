@@ -8,7 +8,7 @@ Watch company’s main gate 24/7
 
 Get unauthorized access to restricted areas
 
-You Selected
+You Selected ✅
 Watch employees as they leave the gate
 
 Following an employee after leaving work
@@ -20,7 +20,7 @@ Inform the security team of your organization
 
 All of the options
 
-You Selected
+You Selected ✅
 Change the Password on all sites where you use the same password
 
 Change your password immediately
@@ -34,7 +34,7 @@ Security Guard
 
 Everyone in the company
 
-You Selected
+You Selected ✅
 Top Management
 
 Q No: 4
@@ -46,7 +46,7 @@ Avoid it completely
 
 Recognize and report security threat
 
-You Selected
+You Selected ✅
 Forward it to a friend and ask him/her to check the legitimacy of the email
 
 Q No: 5
@@ -56,7 +56,7 @@ Lock the drawers
 
 Keep confidential organization’s document file open in the desk
 
-You Selected
+You Selected ✅
 Hide your hand against camera while inserting the PIN code
 
 Keep strong passwords for corporate laptops and mobile phones
@@ -66,7 +66,7 @@ Correct Answer
 Why is it important to have a good understanding of Information Security policies and procedures? 
 All of the options
 
-You Selected
+You Selected ✅
 Helps to understand levels of responsibility
 
 Helps protect individuals from being victims of security incidents.
@@ -82,7 +82,7 @@ All of the above
 
 Pick up the phone and call the vendor, using a phone number you know to be correct, to confirm that the request is real.
 
-You Selected
+You Selected ✅
 Reply to the text to confirm that you really need to renew your password.
 
 Q No: 8
@@ -92,7 +92,7 @@ Passw0rd
 
 $ayN02#ackers
 
-You Selected
+You Selected ✅
 29-Feb-80
 
 MyPetName
@@ -109,10 +109,10 @@ a. string
 
 b. int
 
-You Selected
+You Selected ✅
 c. Decimal
 
-You Selected
+You Selected ✅
 d. System.Drawing.Point
 
 Q No: 2
@@ -124,10 +124,10 @@ a. 6Emp_name
 
 b. _Empname2
 
-You Selected
+You Selected ✅
 c. @stringEmpName
 
-You Selected
+You Selected ✅
 d. name-Emp
 
 Q No: 3
@@ -139,7 +139,7 @@ a. Nullable(int) i = null;
 
 b. Nullable<int> i = null;
 
-You Selected
+You Selected ✅
 c. int i = null;
 
 d. int<Nullable> i = null;
@@ -151,7 +151,7 @@ Marks: 1/1
 Which of these pieces of code will give error while compiling? (Choose all that apply)
 a. var vTemp = null;
 
-You Selected
+You Selected ✅
 b. string strVal = null; var tmp = strVal;
 
 c. var strNull = (string)null;
@@ -165,12 +165,12 @@ Marks: 1/1
 Which of the following would allow an implicit conversion? (Choose all that apply)
 a. Int16 to Int32
 
-You Selected
+You Selected ✅
 b. Int 32 to Int 16
 
 c. Int16 to double
 
-You Selected
+You Selected ✅
 d. Double to Int16
 
 Q No: 6
@@ -189,10 +189,10 @@ Which of the following statements are correct?
   When a value type is boxed, an entirely new object must be allocated and constructed.
 a. 2, 5
 
-You Selected
+You Selected ✅
 b. 1, 5
 
-You Selected
+You Selected ✅
 c. 2,4
 
 d. 3, 4
@@ -210,7 +210,7 @@ c. The | operator can be used to check whether a bit is OFF.
 
 d. The | operator can be used to put ON a bit.
 
-You Selected
+You Selected ✅
 Q No: 8
 Correct Answer
 Marks: 1/1
@@ -218,7 +218,7 @@ Marks: 1/1
 8. What does the acronym "C#" stand for?
 a) C Sharp
 
-You Selected
+You Selected ✅
 b) Computer Science
 
 c) Common Syntax
@@ -238,7 +238,7 @@ c) double
 
 d) string[]
 
-You Selected
+You Selected ✅
 Q No: 10
 Correct Answer
 Marks: 1/1
@@ -250,7 +250,7 @@ b) readonly
 
 c) const
 
-You Selected
+You Selected ✅
 d) static
 -----------------------------------------------------------------------------------------------------------------------------------------------
   Attempt #2
@@ -289,7 +289,7 @@ b. 15, 10, 5, 0, -5
 
 c. -15, -20, -25, -30
 
-You Selected
+You Selected ✅
 d. None of the above
 
 Q No: 2
@@ -353,7 +353,7 @@ class Control
 
 a. 1 1 1 1…..infinite times
 
-You Selected
+You Selected ✅
 B Exception
 
 C 0 0 0……infinite times
@@ -382,7 +382,7 @@ a. Compile-time error
 
 b. Mumbai
 
-You Selected
+You Selected ✅
 c. Delhi
 
 d. Chennai
@@ -405,7 +405,7 @@ b. 10
 
 c. Compile-time error
 
-You Selected
+You Selected ✅
 d. None of the above
 
 Q No: 5
@@ -430,7 +430,7 @@ a. If Condition is False
 
 b. If Condition is True
 
-You Selected
+You Selected ✅
 Q No: 6
 Correct Answer
 Marks: 1/1
@@ -459,7 +459,7 @@ a. 15, 14
 
 b. 17, 15
 
-You Selected
+You Selected ✅
 c. 16, 15
 
 d. 16, 14
@@ -477,7 +477,7 @@ c) sealed
 
 d) private
 
-You Selected
+You Selected ✅
 Q No: 8
 Correct Answer
 Marks: 1/1
@@ -485,7 +485,7 @@ Marks: 1/1
 What is the correct syntax for declaring a class in C#?
 a) class MyClass
 
-You Selected
+You Selected ✅
 b) new class MyClass
 
 c) void class MyClass
@@ -499,7 +499,7 @@ Marks: 1/1
 What is the purpose of the "using" statement in C#?
 a) It imports namespaces.
 
-You Selected
+You Selected ✅
 b) It creates objects.
 
 c) It defines variables.
@@ -515,7 +515,7 @@ a) It specifies that a variable is constant.
 
 b) It indicates a method can be called without creating an instance of the class.
 
-You Selected
+You Selected ✅
 c) It restricts access to a member within the same assembly.
 
 d) It marks a class as abstract.
@@ -538,17 +538,17 @@ nArr represents an array of 3 rows and 2 columns.
 
 nArr.GetUpperBound(1) will yield 2.
 
-You Selected
+You Selected ✅
 nArr represents an array of 2 rows and 3 columns.
 
-You Selected
+You Selected ✅
 nArr.Length will yield 24.
 
 nArr represents 1-D array of 5 integers.
 
 nArr.GetUpperBound(0) will yield 1.
 
-You Selected
+You Selected ✅
 Q No: 2
 Correct Answer
 Marks: 1/1
@@ -562,7 +562,7 @@ enum WeekDay = { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday 
 
 enum WeekDay { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday }
 
-You Selected
+You Selected ✅
 Q No: 3
 Correct Answer
 Marks: 1/1
@@ -576,7 +576,7 @@ A String object is created by using the statement String s1 = new String;
 
 String is created on the heap.
 
-You Selected
+You Selected ✅
 Q No: 4
 Correct Answer
 Marks: 1/1
@@ -588,7 +588,7 @@ while
 
 switch
 
-You Selected
+You Selected ✅
 do-while
 
 Q No: 5
@@ -598,7 +598,7 @@ Marks: 1/1
 What does the "this" keyword refer to in C#?
 The current object instance.
 
-You Selected
+You Selected ✅
 The base class.
 
 The derived class.
@@ -623,7 +623,7 @@ Console.WriteLine(result);
 
 2
 
-You Selected
+You Selected ✅
 1
 
 0
@@ -659,7 +659,7 @@ Marks: 1/1
 
 0 17 17 34
 
-You Selected
+You Selected ✅
 0 0 0 0
 
 17 17 0 0
@@ -675,7 +675,7 @@ Which of the following is the correct way of declaring a char array?
   var[] ch4 = { 'a', 'b', 'c', 'd', 'e' };
 1,2,3
 
-You Selected
+You Selected ✅
 1,3,4
 
 1,2
@@ -787,7 +787,7 @@ class Program
 
 123 abcd wxyz
 
-You Selected
+You Selected ✅
 Compile-time error
 
 Runtime error
@@ -843,7 +843,7 @@ Console.WriteLine(n1 + "\n" + n2 + "\n" + n3);
 
 4,3,3
 
-You Selected
+You Selected ✅
 5,3,2
 
 4,3,2
@@ -862,7 +862,7 @@ b) Constant
 
 c) Sealed
 
-You Selected
+You Selected ✅
 d) final
 
 Q No: 2
@@ -872,7 +872,7 @@ Marks: 1/1
 Which Feature of OOP encourages the code reusability?
 a. is – a relationship
 
-You Selected
+You Selected ✅
 b. has – a relationship
 
 c. Sealed class
@@ -888,7 +888,7 @@ a. Base class pointer cannot point to derived class.
 
 b. Derived class pointer cannot point to base class.
 
-You Selected
+You Selected ✅
 c. Pointer to derived class cannot be created.
 
 d. Pointer to base class cannot be created.
@@ -900,15 +900,15 @@ Marks: 1/1
 Which of the following statements are true of struct type in C#
 a. A structure is a reference type.
 
-You Selected
+You Selected ✅
 b. In structure, memory is allocated on heap.
 
 c. Structures do not support inheritance.
 
-You Selected
+You Selected ✅
 d. Structure members cannot have null values.
 
-You Selected
+You Selected ✅
 Q No: 5
 Correct Answer
 Marks: 1/1
@@ -916,14 +916,14 @@ Marks: 1/1
 Which of the following is the correct signature of overload “+” operator?
 a) public Test operator + (Test tst1, Test tst2)
 
-You Selected
+You Selected ✅
 b) public abstract operator + (Test tst1, Test tst2)
 
 c) public static Test operator + (Test tst1, Test tst2)
 
 d) All of the above
 
-You Selected
+You Selected ✅
 Q No: 6
 Correct Answer
 Marks: 1/1
@@ -931,15 +931,15 @@ Marks: 1/1
 Which of the following can the methods of a class differ, to be treated as overloaded methods? Choose all that apply.
 a. Types of arguments
 
-You Selected
+You Selected ✅
 b. Return type of the methods
 
 c. No. of arguments
 
-You Selected
+You Selected ✅
 d. order of arguments
 
-You Selected
+You Selected ✅
 e. Name of methods
 
 Q No: 7
@@ -951,13 +951,13 @@ a. It is possible to create an object of the abstract class; it must be inherite
 
 b. You can have abstract as well as non-abstract members in an abstract class.
 
-You Selected
+You Selected ✅
 c. You must declare at least one abstract method in the abstract class.
 
-You Selected
+You Selected ✅
 d. An abstract class is always public.
 
-You Selected
+You Selected ✅
 Q No: 8
 Correct Answer
 Marks: 1/1
@@ -972,7 +972,7 @@ Which of the following members of a class can be declared as virtual in C#?
 
 3,4,5
 
-You Selected
+You Selected ✅
 2,3,4
 
 1,4,5
@@ -984,7 +984,7 @@ Marks: 1/1
 Which of the following statements are true of abstract class and interface?
 a. abstract class are to be used if we need to increase reusability in our design.
 
-You Selected
+You Selected ✅
 b. Interfaces support better forward compatibility
 
 c. Abstract method can be used for objects that are closely related whereas interfaces can be used to provide functionality to unrelated classes
@@ -1006,7 +1006,7 @@ c. An interface can contain static data.
 
 d. A class that implements an interface can explicitly implement members of that interface
 
-You Selected
+You Selected ✅
 e. All of the above
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #3
@@ -1019,7 +1019,7 @@ Marks: 1/1
 Which generic collection in C# is most appropriate for storing a list of items with fast access using an index?
 List<T>
 
-You Selected
+You Selected ✅
 Dictionary<TKey, TValue>
 
 Queue<T>
@@ -1037,7 +1037,7 @@ File.CopyFile()
 
 File.Copy()
 
-You Selected
+You Selected ✅
 File.Duplicate()
 
 File.Replicate()
@@ -1055,7 +1055,7 @@ List<T>
 
 ConcurrentDictionary<TKey, TValue>
 
-You Selected
+You Selected ✅
 Queue<T>
 
 Explanation: ConcurrentDictionary<TKey, TValue> is designed for safe use in multi-threaded environments without additional locking.
@@ -1071,7 +1071,7 @@ The Dictionary returns null
 
 A KeyNotFoundException is thrown
 
-You Selected
+You Selected ✅
 The Dictionary returns an empty string
 
 Explanation: Accessing a non-existent key in a Dictionary throws a KeyNotFoundException.
@@ -1085,7 +1085,7 @@ ArrayList
 
 HashTable
 
-You Selected
+You Selected ✅
 Stack
 
 Queue
@@ -1101,7 +1101,7 @@ ArrayList - Because it allows for easy addition and removal of records.
 
 Dictionary<int, Employee> - Because it allows quick lookups using the unique ID as the key.
 
-You Selected
+You Selected ✅
 Queue<Employee> - Because it ensures FIFO order when processing employees.
 
 Stack<Employee> - Because it allows LIFO order when processing employees.
@@ -1119,7 +1119,7 @@ File.New()
 
 File.Create()
 
-You Selected
+You Selected ✅
 File.Make()
 
 File.Generate()
@@ -1135,7 +1135,7 @@ ArrayList
 
 HashTable
 
-You Selected
+You Selected ✅
 List<T>
 
 Queue<T>
@@ -1149,7 +1149,7 @@ Marks: 1/1
 In C#, which method would you use to check if a file exists before attempting to open it?
 File.Exists()
 
-You Selected
+You Selected ✅
 File.Check()
 
 File.IsAvailable()
@@ -1167,7 +1167,7 @@ List<T>
 
 HashSet<T>
 
-You Selected
+You Selected ✅
 Dictionary<TKey, TValue>
 
 Queue<T>
@@ -1185,7 +1185,7 @@ Stack
 
 Queue
 
-You Selected
+You Selected ✅
 SortedList
 
 Explanation: Queue is a collection that stores elements in a FIFO order.
@@ -1199,7 +1199,7 @@ Read the entire file into memory, process it, and then write the output.
 
 Use a StreamReader to read and process the file line by line.
 
-You Selected
+You Selected ✅
 Use File.ReadAllLines() and File.WriteAllLines() for reading and writing.
 
 Copy the file first, then process the copy.
@@ -1213,7 +1213,7 @@ Marks: 1/1
 Which of the following methods is used to append data to an existing file in C#?
 File.AppendText()
 
-You Selected
+You Selected ✅
 File.WriteText()
 
 File.AppendAllLines()
@@ -1231,7 +1231,7 @@ Use File.WriteAllText()
 
 Use StreamWriter with the Append option
 
-You Selected
+You Selected ✅
 Use File.AppendAllLines()
 
 Use File.CreateText()
@@ -1245,7 +1245,7 @@ Marks: 1/1
 Which method is used to remove a file from the filesystem in C#?
 File.Delete()
 
-You Selected
+You Selected ✅
 File.Remove()
 
 File.Destroy()
@@ -1266,7 +1266,7 @@ Async streams do not support LINQ operations.
 
 Async streams return elements asynchronously.
 
-You Selected
+You Selected ✅
 IEnumerable can handle exceptions, but async streams cannot.
 
 Async streams are only available in .NET Core.
@@ -1280,7 +1280,7 @@ Marks: 1/1
 During a code review, you notice that a fellow developer used a binary search algorithm on an unsorted list. What should be your recommendation and why?
 Suggest sorting the list before using binary search, as it requires sorted data.
 
-You Selected
+You Selected ✅
 Recommend switching to linear search, as it works on unsorted data.
 
 Advise using bubble sort before the binary search for better performance.
@@ -1296,7 +1296,7 @@ Marks: 1/1
 You are tasked with implementing a search function in a large, unsorted dataset that changes frequently. Which algorithm would you choose and why?
 Linear Search, because it does not require sorting the dataset.
 
-You Selected
+You Selected ✅
 Binary Search, because it is faster with sorted data.
 
 Bubble Sort, to sort the dataset before searching.
@@ -1312,7 +1312,7 @@ Marks: 1/1
 You need to implement a function that filters and processes a collection of data asynchronously in C# 8.0. Which feature would be most appropriate?
 Async Streams, to handle asynchronous data processing.
 
-You Selected
+You Selected ✅
 Tuples, to manage multiple return values.
 
 Switch Expressions, for concise conditional logic.
@@ -1330,7 +1330,7 @@ They provide a way to define anonymous types.
 
 They enable methods to return multiple values.
 
-You Selected
+You Selected ✅
 They replace arrays in data structures.
 
 They simplify pattern matching.
@@ -1344,7 +1344,7 @@ Marks: 1/1
 Which sorting algorithm repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order?
 Bubble Sort
 
-You Selected
+You Selected ✅
 Insertion Sort
 
 Selection Sort
@@ -1366,7 +1366,7 @@ Insertion Sort
 
 Merge Sort
 
-You Selected
+You Selected ✅
 Explanation: Merge Sort is more efficient in the average case with a time complexity of O(n log n), compared to the O(n²) complexity of Bubble, Selection, and Insertion Sorts.
 
 Q No: 8
@@ -1376,7 +1376,7 @@ Marks: 1/1
 While implementing a new feature using C# 8.0, you encounter a situation where a reference type might be null. Which feature would you use to handle this, and how?
 Nullable Reference Types, by explicitly marking the variable as nullable.
 
-You Selected
+You Selected ✅
 Local Functions, to encapsulate the null-check logic.
 
 Tuples, to return a default value in case of null.
@@ -1398,7 +1398,7 @@ Which attribute in C# is used to indicate that a method can be overridden by der
 
 [Virtual]
 
-You Selected
+You Selected ✅
 Explanation: The [Virtual] attribute in C# marks a method as overridable, allowing derived classes to provide their own implementation.
 
 Q No: 10
@@ -1410,7 +1410,7 @@ Linear Search
 
 Binary Search
 
-You Selected
+You Selected ✅
 Bubble Sort
 
 Selection Sort
@@ -1428,7 +1428,7 @@ Selection Sort, because it selects the smallest element.
 
 Insertion Sort, because it is efficient with nearly sorted data.
 
-You Selected
+You Selected ✅
 Merge Sort, because it is the fastest in general.
 
 Explanation: Insertion Sort is particularly efficient for small or nearly sorted datasets, making it the ideal choice here.
@@ -1442,7 +1442,7 @@ Nullable Reference Types
 
 Local Functions
 
-You Selected
+You Selected ✅
 Async Streams
 
 Switch Expressions
@@ -1458,7 +1458,7 @@ The list is sorted.
 
 The list is unsorted.
 
-You Selected
+You Selected ✅
 The list contains many elements.
 
 The list is in descending order.
@@ -1476,7 +1476,7 @@ Local Functions
 
 Nullable Reference Types
 
-You Selected
+You Selected ✅
 Tuples
 
 Explanation: Nullable Reference Types in C# 8.0 help prevent null reference exceptions by distinguishing between nullable and non-nullable reference types.
@@ -1492,7 +1492,7 @@ Simplifies complex conditional logic
 
 Eliminates the need for exception handling
 
-You Selected
+You Selected ✅
 Enhances code readability
 
 Explanation: Pattern matching simplifies conditional logic and enhances readability but does not eliminate the need for exception handling.
@@ -1511,7 +1511,7 @@ Predicate
 
 Action
 
-You Selected
+You Selected ✅
 EventHandler
 
 Explanation: Action is a delegate type in C# that represents methods that do not return a value.
@@ -1527,7 +1527,7 @@ Action, because it allows for executing a method without returning a value.
 
 Predicate, because it is specifically designed for filtering with a boolean condition.
 
-You Selected
+You Selected ✅
 EventHandler, because it is used for handling events.
 
 Explanation: Predicate is ideal for filtering as it returns a boolean indicating whether an object meets the condition.
@@ -1541,7 +1541,7 @@ When you want to pass a variable by value.
 
 When you need to modify the argument passed into the method.
 
-You Selected
+You Selected ✅
 When you want to pass a read-only parameter.
 
 When you want to define an anonymous method.
@@ -1557,7 +1557,7 @@ ref
 
 out
 
-You Selected
+You Selected ✅
 in
 
 var
@@ -1571,7 +1571,7 @@ Marks: 1/1
 During a code review, you find that a developer used reflection to access a private field in a class. What should be your recommendation and why?
 Suggest using public properties instead, as reflection can bypass encapsulation.
 
-You Selected
+You Selected ✅
 Recommend leaving the code as is because reflection is necessary for accessing private members.
 
 Advise using the dynamic keyword to access the field instead of reflection.
@@ -1587,7 +1587,7 @@ Marks: 1/1
 You are asked to refactor a method that contains repetitive type-specific logic. How would you optimize this using generics?
 Create a generic method that can handle different types without duplication.
 
-You Selected
+You Selected ✅
 Use reflection to dynamically determine the types at runtime.
 
 Use delegates to pass the specific logic as parameters.
@@ -1603,7 +1603,7 @@ Marks: 1/1
 Which of the following is a benefit of using Func delegates in C#?
 They can return any type of value.
 
-You Selected
+You Selected ✅
 They are limited to methods with no parameters.
 
 They simplify exception handling.
@@ -1621,7 +1621,7 @@ They can store values of any data type.
 
 They allow you to create type-safe methods that work with any data type.
 
-You Selected
+You Selected ✅
 They simplify the code by eliminating the need for method overloading.
 
 They are more efficient than non-generic methods.
@@ -1635,7 +1635,7 @@ Marks: 1/1
 Which of the following methods is used to inspect metadata using reflection in C#?
 GetType()
 
-You Selected
+You Selected ✅
 ToString()
 
 GetHashCode()
@@ -1655,7 +1655,7 @@ Delegates cannot point to multiple methods.
 
 Delegates are type-safe function pointers.
 
-You Selected
+You Selected ✅
 Delegates can only be used with static methods.
 
 Explanation: Delegates are type-safe and can point to methods that match their signature.
@@ -1667,7 +1667,7 @@ Marks: 1/1
 You are implementing a multi-threaded application in C#. Which approach would you choose to safely update a shared resource across multiple threads?
 Use the lock statement to synchronize access to the resource.
 
-You Selected
+You Selected ✅
 Use Task.Run to execute the operation asynchronously.
 
 Use reflection to inspect the state of the resource.
@@ -1685,7 +1685,7 @@ Async methods can be awaited.
 
 Async methods block the main thread.
 
-You Selected
+You Selected ✅
 Async methods can return Task or Task<T>.
 
 Async methods allow non-blocking operations.
@@ -1699,7 +1699,7 @@ Marks: 1/1
 A method in your application needs to perform a long-running computation while keeping the UI responsive. Which feature of C# would you use?
 Use async and await to run the computation asynchronously.
 
-You Selected
+You Selected ✅
 Use reflection to inspect the progress of the computation.
 
 Use lambda expressions to simplify the computation logic.
@@ -1717,7 +1717,7 @@ To create complex data structures.
 
 To write inline expressions or anonymous methods.
 
-You Selected
+You Selected ✅
 To define new types at runtime.
 
 To perform complex mathematical operations
@@ -1733,7 +1733,7 @@ They can store multiple values of different types.
 
 They allow a delegate to call multiple methods in a single invocation.
 
-You Selected
+You Selected ✅
 They reduce memory usage by combining multiple methods into one.
 
 They can only be used with static methods.
@@ -1754,7 +1754,7 @@ Assert.IsNull()
 
 Assert.AreEqual()
 
-You Selected
+You Selected ✅
 Assert.Fail()
 
 Explanation: Assert.AreEqual() is used to verify that two values are equal in a unit test.
@@ -1768,7 +1768,7 @@ Delete the test case since it has passed.
 
 Refactor the code to improve its structure while ensuring the test still passes.
 
-You Selected
+You Selected ✅
 Move on to the next feature without changing anything.
 
 Add more assertions to the test case.
@@ -1784,7 +1784,7 @@ To test the entire system end-to-end
 
 To ensure that individual units or components of a program work as intended
 
-You Selected
+You Selected ✅
 To validate the performance of the software
 
 To check the security vulnerabilities in the code
@@ -1798,7 +1798,7 @@ Marks: 1/1
 When mocking a dependency in a unit test, what is the primary purpose of using a mocking framework like Moq?
 To replace a real object with a controlled substitute to test the interaction between objects
 
-You Selected
+You Selected ✅
 To test the actual database operations
 
 To create complex UI elements
@@ -1814,7 +1814,7 @@ Marks: 1/1
 A developer wrote a unit test that passes when run individually but fails when run as part of a test suite. What could be a possible reason?
 The test depends on the order of execution.
 
-You Selected
+You Selected ✅
 The test is too complex to run in a suite.
 
 The test framework does not support suite execution.
@@ -1830,7 +1830,7 @@ Marks: 1/1
 You need to verify that a method throws an exception when invalid data is provided. Which NUnit assertion would you use, and why?
 Assert.Throws, because it checks that a specific exception is thrown.
 
-You Selected
+You Selected ✅
 Assert.AreEqual, because it verifies that the exception message matches.
 
 Assert.IsTrue, because it confirms the method returns a boolean.
@@ -1848,7 +1848,7 @@ Write code, Write test, Refactor
 
 Write test, Write code, Refactor
 
-You Selected
+You Selected ✅
 Refactor, Write code, Write test
 
 Write code, Refactor, Write test
@@ -1864,7 +1864,7 @@ Assert.Throws only catches unhandled exceptions, while Assert.Catch can catch al
 
 Assert.Throws verifies that an exception is thrown, while Assert.Catch captures the exception for further inspection.
 
-You Selected
+You Selected ✅
 Assert.Throws is for async methods, while Assert.Catch is for sync methods.
 
 There is no difference; they are interchangeable.
@@ -1878,7 +1878,7 @@ Marks: 1/1
 During a code review, a tester points out that your unit tests are tightly coupled to the implementation details of the code. What should you do to improve the tests?
 Refactor the tests to focus on the public API of the code rather than internal implementation details.
 
-You Selected
+You Selected ✅
 Increase the number of assertions in each test.
 
 Add more mocking to simulate the implementation details.
@@ -1898,7 +1898,7 @@ To set up a condition that skips the test
 
 To define a method that runs before each test
 
-You Selected
+You Selected ✅
 To teardown any setup after the test is complete
 
 Explanation: The [SetUp] attribute is used to define a method that will run before each test in NUnit.
@@ -1912,7 +1912,7 @@ Write a single test case for the most common membership level.
 
 Write multiple test cases, including edge cases like the highest and lowest membership levels.
 
-You Selected
+You Selected ✅
 Use only positive test cases to confirm the method works under normal conditions.
 
 Skip testing edge cases, as they are unlikely to occur.
@@ -1926,7 +1926,7 @@ Marks: 1/1
 Which of the following is true about test fixtures in NUnit?
 They must contain at least one [Test] method.
 
-You Selected
+You Selected ✅
 They can only contain one [Test] method.
 
 They do not support setup or teardown methods.
@@ -1944,7 +1944,7 @@ JUnit
 
 NUnit
 
-You Selected
+You Selected ✅
 Selenium
 
 TestNG
@@ -1958,7 +1958,7 @@ Marks: 1/1
 Which attribute is used to run a specific test multiple times with different input values in NUnit?
 [TestCase]
 
-You Selected
+You Selected ✅
 ) [TestFixture
 
 [Repeat]
@@ -1976,7 +1976,7 @@ To skip the test case
 
 To mark a method as a unit test that NUnit will run
 
-You Selected
+You Selected ✅
 To assert the test case
 
 To log test results to a file
@@ -2012,7 +2012,7 @@ The page will show "Hello, World!"
 
 The page will show "Welcome to Razor Pages"
 
-You Selected
+You Selected ✅
 The page will not render anything.
 
 Q No: 2
@@ -2026,7 +2026,7 @@ Host the static files on a CDN.
 
 Configure the application to use the UseStaticFiles() middleware.
 
-You Selected
+You Selected ✅
 Embed the static files within assembly resources.
 
 Q No: 3
@@ -2036,7 +2036,7 @@ Marks: 1/1
 Which of the following is a benefit of using .NET Core?
 Requires less memory compared to .NET Framework.
 
-You Selected
+You Selected ✅
 Limited to Windows platform.
 
 Requires Visual Studio to run.
@@ -2054,7 +2054,7 @@ A new developer on your team asks why .NET Core is chosen for cross-platform dev
 
 .NET Core is lighter and can run on Linux, Windows, and macOS.
 
-You Selected
+You Selected ✅
 .NET Framework is deprecated in favor of .NET Core.
 
 Q No: 5
@@ -2089,7 +2089,7 @@ app.Run(async (context) =>
 
 First MiddlewareSecond Middleware
 
-You Selected
+You Selected ✅
 First Middleware
 
 Second MiddlewareFirst Middleware
@@ -2107,7 +2107,7 @@ dotnet create project
 
 dotnet new <template>
 
-You Selected
+You Selected ✅
 dotnet start
 
 Q No: 7
@@ -2121,7 +2121,7 @@ By enabling static file support in web.config.
 
 By using the UseStaticFiles() middleware.
 
-You Selected
+You Selected ✅
 By manually handling requests in controllers.
 
 Q No: 8
@@ -2160,7 +2160,7 @@ Outputs "Middleware 2".
 
 Outputs "Middleware 1Middleware 2".
 
-You Selected
+You Selected ✅
 Throws a runtime error.
 
 Outputs "Middleware 1".
@@ -2189,7 +2189,7 @@ Compilation Error
 
 Hello, ASP.NET Core!
 
-You Selected
+You Selected ✅
 Runtime Exception
 
 Hello, World!
@@ -2207,7 +2207,7 @@ Install Visual Studio and build the application using ASP.NET Web Forms.
 
 Install .NET Core SDK and use Razor Pages or MVC for the application.
 
-You Selected
+You Selected ✅
 Q No: 11
 Correct Answer
 Marks: 1/1
@@ -2217,7 +2217,7 @@ Increase the server's CPU and memory.
 
 Enable caching for static files through middleware.
 
-You Selected
+You Selected ✅
 Compress the files before sending them to the client.
 
 Use asynchronous processing in the controller actions.
@@ -2231,7 +2231,7 @@ Continue manually writing headers as it gives more control.
 
 Use middleware to handle response headers globally.
 
-You Selected
+You Selected ✅
 Use Web.config to manage headers.
 
 Manage response headers in the controller's action methods.
@@ -2249,7 +2249,7 @@ A database connection handler.
 
 A function that can process HTTP requests and responses.
 
-You Selected
+You Selected ✅
 Q No: 14
 Correct Answer
 Marks: 1/1
@@ -2276,7 +2276,7 @@ Compilation Error
 
 Hello, .NET Core!
 
-You Selected
+You Selected ✅
 Runtime Exception
 
 Q No: 15
@@ -2292,7 +2292,7 @@ What is a key difference between .NET Core and .NET Framework?
 
 .NET Core is cross-platform, while .NET Framework is Windows-only.
 
-You Selected
+You Selected ✅
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #2
 Feb 11, 7:41 PM
@@ -2306,7 +2306,7 @@ To stop the application when an error occurs
 
 To handle specific error conditions and maintain application stability
 
-You Selected
+You Selected ✅
 To improve the application's performance
 
 To log all user actions for audit purposes
@@ -2331,7 +2331,7 @@ Debugger
 
 Trace
 
-You Selected
+You Selected ✅
 File
 
 Explanation: The Trace class in .NET is used for logging information, warnings, and errors.
@@ -2352,7 +2352,7 @@ Preventing all errors in the code
 
 Managing and responding to runtime errors in a controlled manner
 
-You Selected
+You Selected ✅
 Stopping the application whenever an error occurs
 
 Logging all user activities
@@ -2370,7 +2370,7 @@ To encrypt sensitive data
 
 To restrict access to actions or controllers based on user roles
 
-You Selected
+You Selected ✅
 To log user activities
 
 Explanation: The [Authorize] attribute is used to specify that a user must be authenticated and authorized to access certain parts of an application.
@@ -2382,7 +2382,7 @@ Marks: 1/1
 A developer implemented a logging system in a .NET application, but sensitive information like passwords is being logged. What is the best practice to handle this situation?
 Exclude sensitive information from the logs to prevent security breaches.
 
-You Selected
+You Selected ✅
 Encrypt all log entries.
 
 Store logs in a secure, encrypted database.
@@ -2407,7 +2407,7 @@ Encryption
 
 Authentication
 
-You Selected
+You Selected ✅
 Compression
 
 Serialization
@@ -2428,7 +2428,7 @@ Which .NET class would you use to securely store a hashed version of a password?
 
 SHA256
 
-You Selected
+You Selected ✅
 MD5
 
 AesManaged
@@ -2450,7 +2450,7 @@ DES
 
 All of the above
 
-You Selected
+You Selected ✅
 Explanation: The .NET framework supports multiple encryption algorithms, including RSA, AES, and DES.
 
 Q No: 9
@@ -2460,7 +2460,7 @@ Marks: 1/1
 You are designing a critical .NET application that must remain reliable under all conditions, including when exceptions occur. Which of the following strategies should you employ?
 Implement global exception handling and log all unhandled exceptions while allowing the application to continue running.
 
-You Selected
+You Selected ✅
 Ignore exceptions and focus on performance optimization.
 
 Display detailed exception messages to the end-user for better debugging.
@@ -2485,7 +2485,7 @@ Using string concatenation to build SQL queries
 
 Using parameterized queries or stored procedures
 
-You Selected
+You Selected ✅
 Disabling database logging
 
 Using unescaped user input in queries
@@ -2508,7 +2508,7 @@ In .NET, which attribute is used to enforce SSL/TLS on a controller or action in
 
 [RequireHttps]
 
-You Selected
+You Selected ✅
 [ValidateAntiForgeryToken]
 
 [Authorize]
@@ -2529,7 +2529,7 @@ During a security audit, it was found that an application is vulnerable to cross
 
 Implement input validation and encode output to prevent malicious scripts from being executed
 
-You Selected
+You Selected ✅
 Disable JavaScript in the application
 
 Encrypt all data before displaying it to the user
@@ -2552,7 +2552,7 @@ You are tasked with ensuring that a .NET application only accepts requests over 
 
 [RequireHttps] - Ensures that all requests are made over HTTPS, protecting data in transit.
 
-You Selected
+You Selected ✅
 [HttpGet] - Forces all GET requests to use HTTPS.
 
 [Authorize] - Limits access to authorized users but does not enforce HTTPS.
@@ -2575,7 +2575,7 @@ Which of the following practices should be avoided to ensure the security of sen
 
 Storing passwords in plaintext
 
-You Selected
+You Selected ✅
 Using SSL/TLS for data transmission
 
 Encrypting sensitive data before storage
@@ -2598,7 +2598,7 @@ You are building a financial application in .NET that requires secure communicat
 
 Use HTTPS for secure communication, and encrypt sensitive data before storing it in the database.
 
-You Selected
+You Selected ✅
 Store sensitive data in plaintext and rely on SSL/TLS for security.
 
 Use a simple password for all encryption keys and store them in the codebase.
@@ -2619,7 +2619,7 @@ Observer
 
 Abstract Factory
 
-You Selected
+You Selected ✅
 Singleton
 
 Strategy
@@ -2631,7 +2631,7 @@ Marks: 1/1
 You have a class that handles both user authentication and user notification. How would you refactor this class to adhere to the Single Responsibility Principle (SRP)?
 By creating separate classes for authentication and notification, with each class handling only one responsibility.
 
-You Selected
+You Selected ✅
 By merging the functionalities into a single class.
 
 By using a third-party library for notifications.
@@ -2649,7 +2649,7 @@ By creating a global handler for all notification types
 
 By using interfaces or abstract classes and creating new implementations.
 
-You Selected
+You Selected ✅
 By modifying the existing class to handle the new type.
 
 Q No: 4
@@ -2659,7 +2659,7 @@ Marks: 1/1
 You are working on a project with multiple modules and a need for extensibility in the logging mechanism. How would you refactor the logging module to follow SOLID principles?
 By defining an interface for logging and implementing it in various classes.
 
-You Selected
+You Selected ✅
 By creating a base logging class and modifying existing code to use it.
 
 By using a global logging class accessible from any module.
@@ -2677,7 +2677,7 @@ A derived class overrides base class methods with same signatures.
 
 A derived class throws exceptions not thrown by the base class methods.
 
-You Selected
+You Selected ✅
 A derived class replaces the base class without altering expected behavior.
 
 Q No: 6
@@ -2687,7 +2687,7 @@ Marks: 1/1
 A legacy application uses a large monolithic class to handle various business logic operations. How would you refactor this application to adhere to the Open/Closed Principle (OCP)?
 By breaking down the class into smaller classes and using interfaces for extension.
 
-You Selected
+You Selected ✅
 By using a single class with multiple methods for all operations.
 
 By creating a new class for each new operation and merging them into the monolithic class.
@@ -2705,7 +2705,7 @@ When you want to observe changes in a class.
 
 When you need to convert an interface into another interface expected by a client.
 
-You Selected
+You Selected ✅
 When you want to extend the functionality of a class.
 
 Q No: 8
@@ -2717,7 +2717,7 @@ By coupling high-level and low-level modules tightly for efficiency.
 
 By depending on abstractions (interfaces) for higher-level modules and allowing lower-level modules to implement these abstractions.
 
-You Selected
+You Selected ✅
 By depending on concrete classes for lower-level modules.
 
 By using global variables for shared dependencies.
@@ -2733,7 +2733,7 @@ Singleton
 
 Adapter
 
-You Selected
+You Selected ✅
 Factory Method
 
 Q No: 10
@@ -2745,7 +2745,7 @@ Dependency Inversion Principle
 
 Single Responsibility Principle
 
-You Selected
+You Selected ✅
 Interface Segregation Principle
 
 Open/Closed Principle
@@ -2759,7 +2759,7 @@ To ensure a class has only one instance.
 
 To add new functionality to an object dynamically.
 
-You Selected
+You Selected ✅
 To create a single instance of a class.
 
 To separate a complex system into simpler parts.
@@ -2777,7 +2777,7 @@ Possible Answer A class should be open for extension but closed for modification
 
 A class should have only one reason to change.
 
-You Selected
+You Selected ✅
 Q No: 13
 Correct Answer
 Marks: 1/1
@@ -2787,7 +2787,7 @@ To manage the lifecycle of an object.
 
 To create a specific instance of an object.
 
-You Selected
+You Selected ✅
 To provide access to a shared resource.
 
 To implement the business logic.
@@ -2805,7 +2805,7 @@ By allowing the subject to manage observers internally without exposing them.
 
 By using dependency injection to decouple the observers from the subject.
 
-You Selected
+You Selected ✅
 Q No: 15
 Correct Answer
 Marks: 1/1
@@ -2817,7 +2817,7 @@ Decorator
 
 Singleton
 
-You Selected
+You Selected ✅
 Observer
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #1
@@ -2830,7 +2830,7 @@ Marks: 1/1
 How do you modify an existing record in a table?
 Using the UPDATE command.
 
-You Selected
+You Selected ✅
 Using the INSERT command.
 
 Using the DELETE command.
@@ -2848,7 +2848,7 @@ By using a single table for both orders and customers and creating a unique colu
 
 By creating separate tables for orders and customers, with a foreign key in the orders table referencing the customers table.
 
-You Selected
+You Selected ✅
 By using a global ID field in both orders and customers tables.
 
 Q No: 3
@@ -2858,7 +2858,7 @@ Marks: 1/1
 Which SQL command is used to retrieve data from a database?
 SELECT
 
-You Selected
+You Selected ✅
 UPDATE
 
 DELETE
@@ -2874,7 +2874,7 @@ By using WHERE clause in the INSERT statement.
 
 By adding WHERE clause after SELECT statement and specifying conditions to filter rows.
 
-You Selected
+You Selected ✅
 By using WHERE clause in the UPDATE statement to modify specific rows.
 
 By using WHERE clause before the SELECT statement to define the rows to be selected.
@@ -2890,7 +2890,7 @@ INNER JOIN and LEFT JOIN are functionally equivalent.
 
 INNER JOIN returns rows that have matching values in both tables, while LEFT JOIN returns all rows from the left table and matched rows from the right table.
 
-You Selected
+You Selected ✅
 INNER JOIN returns all rows from the left table, while LEFT JOIN returns rows from the right table.
 
 Q No: 6
@@ -2902,7 +2902,7 @@ Transactions are used to optimize query performance by reducing execution time.
 
 A COMMIT statement makes all changes made during the transaction permanent.
 
-You Selected
+You Selected ✅
 A ROLLBACK statement is used to save changes made during a transaction.
 
 Transactions can be rolled back after being committed.
@@ -2914,7 +2914,7 @@ Marks: 1/1
 You need to generate a report that includes all customers and their corresponding orders, including customers who have not placed any orders. What SQL query would you use?
 SELECT * FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
 
-You Selected
+You Selected ✅
 SELECT * FROM Customers RIGHT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
 
 SELECT * FROM Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerID
@@ -2928,7 +2928,7 @@ Marks: 1/1
 In a database where you need to track changes to employee records over time, what would be the best approach to handle historical data?
 By creating a separate history table to store historical changes with appropriate foreign keys
 
-You Selected
+You Selected ✅
 By updating existing records with new values and adding a timestamp column.
 
 By creating a new table for each historical change with employee details.
@@ -2942,7 +2942,7 @@ Marks: 1/1
 When designing a database to handle transactions for a banking system, how would you ensure that the database maintains consistency in case of a failure during a transaction?
 By implementing the ACID properties (Atomicity, Consistency, Isolation, Durability) in transactions.
 
-You Selected
+You Selected ✅
 By using the COMMIT statement to finalize transactions.
 
 By using the ROLLBACK statement to reverse changes made during a transaction.
@@ -2960,7 +2960,7 @@ To allow duplicate records in a table.
 
 To enforce referential integrity between tables.
 
-You Selected
+You Selected ✅
 To sort data in ascending order.
 
 Q No: 11
@@ -2972,7 +2972,7 @@ Creating a single clustered index on the primary key column and avoiding additio
 
 Adding multiple non-clustered indexes on columns that are frequently used in queries.
 
-You Selected
+You Selected ✅
 Using only unique indexes to ensure data integrity.
 
 Applying indexes to columns that are not used in queries to speed up performance.
@@ -2988,7 +2988,7 @@ JOIN
 
 UNION
 
-You Selected
+You Selected ✅
 INTERSECT
 
 Q No: 13
@@ -3004,7 +3004,7 @@ DENY
 
 GRANT
 
-You Selected
+You Selected ✅
 Q No: 14
 Correct Answer
 Marks: 1/1
@@ -3014,7 +3014,7 @@ The record is inserted with a NULL value in the foreign key column.
 
 The insert operation will fail and return an error.
 
-You Selected
+You Selected ✅
 The database engine will automatically create the referenced record.
 
 The record is inserted with an error message in the log file.
@@ -3026,7 +3026,7 @@ Marks: 1/1
 What is a primary key in a database table?
 A key that uniquely identifies a record in a table.
 
-You Selected
+You Selected ✅
 A key that is used for foreign key relationships.
 
 A key that allows for null values.
@@ -3043,7 +3043,7 @@ Marks: 1/1
 In a scenario where you need to perform a series of database modifications and ensure all modifications are applied or none at all, how would you use transactions to achieve this?
 By grouping modifications within a single transaction and using COMMIT to finalize changes.
 
-You Selected
+You Selected ✅
 By using COMMIT after each modification.
 
 By using ROLLBACK to undo modifications in case of errors.
@@ -3059,7 +3059,7 @@ Speeds up data retrieval by creating a separate index table.
 
 Determines the physical order of data in a table based on the index key.
 
-You Selected
+You Selected ✅
 Ensures data integrity by enforcing a primary key constraint.
 
 Provides a unique identifier for each row in a table.
@@ -3073,7 +3073,7 @@ Creates a foreign key relationship between tables.
 
 Ensures that values in a column adhere to a specified condition.
 
-You Selected
+You Selected ✅
 Enforces uniqueness in a column.
 
 Limits the number of rows in a table.
@@ -3089,7 +3089,7 @@ To modify existing permissions
 
 To remove previously granted permissions from a user.
 
-You Selected
+You Selected ✅
 To create new database objects.
 
 Q No: 5
@@ -3101,7 +3101,7 @@ To undo changes made during a transaction.
 
 To make all changes made during a transaction permanent.
 
-You Selected
+You Selected ✅
 To delete all records in a table.
 
 To create a new database.
@@ -3113,7 +3113,7 @@ Marks: 1/1
 You are tasked with ensuring that a database schema follows data integrity rules and meets performance requirements. How would you use DDL commands to achieve this?
 By creating and managing constraints, indexes, and database objects to enforce data integrity and optimize performance.
 
-You Selected
+You Selected ✅
 By using SELECT statements to query the database and verify data consistency.
 
 By using DML commands to adjust the data structure.
@@ -3131,7 +3131,7 @@ TRUNCATE TABLE
 
 DROP TABLE
 
-You Selected
+You Selected ✅
 DELETE TABLE
 
 Q No: 8
@@ -3147,7 +3147,7 @@ MODIFY TABLE
 
 ALTER TABLE
 
-You Selected
+You Selected ✅
 Q No: 9
 Correct Answer
 Marks: 1/1
@@ -3157,7 +3157,7 @@ By using the REVOKE command.
 
 By using the GRANT SELECT command.
 
-You Selected
+You Selected ✅
 By using the GRANT UPDATE command.
 
 By using the CREATE USER command.
@@ -3169,7 +3169,7 @@ Marks: 1/1
 Which of the following constraints ensures that no duplicate values are allowed in a column?
 UNIQUE
 
-You Selected
+You Selected ✅
 CHECK
 
 FOREIGN KEY
@@ -3189,7 +3189,7 @@ UNIQUE constraint to ensure no duplicate rows.
 
 CHECK constraint to enforce a minimum number of rows
 
-You Selected
+You Selected ✅
 Q No: 12
 Correct Answer
 Marks: 1/1
@@ -3199,7 +3199,7 @@ By creating new users with full access and using ALTER TABLE to limit their acce
 
 By using GRANT to provide necessary permissions and REVOKE to remove unnecessary permissions.
 
-You Selected
+You Selected ✅
 By using CREATE TABLE to enforce data security rules.
 
 By using INSERT commands to add security features to existing tables.
@@ -3215,7 +3215,7 @@ It creates a backup of the database.
 
 It cancels the current transaction and undoes any changes made.
 
-You Selected
+You Selected ✅
 It saves changes to the database without committing.
 
 Q No: 14
@@ -3227,7 +3227,7 @@ TRUNCATE TABLE can be rolled back, while DELETE cannot.
 
 TRUNCATE TABLE removes all rows from a table without logging individual row deletions, whereas DELETE removes rows one at a time and logs each deletion.
 
-You Selected
+You Selected ✅
 DELETE is faster than TRUNCATE TABLE for large tables.
 
 TRUNCATE TABLE allows for selective deletion of rows, while DELETE removes all rows.
@@ -3239,7 +3239,7 @@ Marks: 1/1
 When would you use the ALTER TABLE command with the ADD CONSTRAINT option?
 To enforce a constraint such as a primary key or foreign key on an existing table.
 
-You Selected
+You Selected ✅
 To rename a table.
 
 To drop an existing column from a table.
@@ -3260,7 +3260,7 @@ no matters img can be in D drive
 
 example of absolute path img should be in same path where html file and if img tag is some how unable to load the image then alternative text “Sachin-cricketer-indian” will be displayed
 
-You Selected
+You Selected ✅
 alt is incorrectly used
 
 Question 2
@@ -3274,7 +3274,7 @@ Tag which is considered as root element of any HTML page is
 
 <html>
 
-You Selected
+You Selected ✅
 <div>
 
 Question 3
@@ -3288,7 +3288,7 @@ For the CSS selector which is correct
 
 both A and B correct
 
-You Selected
+You Selected ✅
 only A is correct
 
 Question 4
@@ -3298,7 +3298,7 @@ Marks: 1/1
  Can we create custom tag in HTML?
 Yes
 
-You Selected
+You Selected ✅
 No
 
 Question 5
@@ -3369,7 +3369,7 @@ for all screens navigation hyperlink will be vertical
 
 for screen’s browser window if resizes and <= 300 px then screens navigation hyperlink will be vertical.
 
-You Selected
+You Selected ✅
 for screen’s browser window if resizes and > 300 px then screens navigation hyperlink will be vertical.
 
 Question 6
@@ -3430,7 +3430,7 @@ My name is Donald-yellow
 
 All A,B,C correct
 
-You Selected
+You Selected ✅
 Question 7
 Correct Answer
 Marks: 1/1
@@ -3442,7 +3442,7 @@ Table data
 
 Table header
 
-You Selected
+You Selected ✅
 Data in the table
 
 Question 8
@@ -3456,7 +3456,7 @@ ____ is used to mark or highlight the text?
 
 <mark>
 
-You Selected
+You Selected ✅
 <high>
 
 Question 9
@@ -3470,7 +3470,7 @@ Which of the following is to break the line.?
 
 <br>
 
-You Selected
+You Selected ✅
 <BL>
 
 Question 10
@@ -3521,7 +3521,7 @@ Incorrect code
 
 heading2-yellow,HCL-green,INFI-red
 
-You Selected
+You Selected ✅
 heading2-yellow,HCL-yellow,INFI-Red
 
 None
@@ -3545,7 +3545,7 @@ Choose correct code-
 
 <dl> <dt>Juice</dt> <dd><ol index="3"><li>Orange</li><li>mango</li></ol></dd> <dt>Milk</dt> <dd>white drink</dd> </dl>
 
-You Selected
+You Selected ✅
 <dl> <dt>Juice</dt> <dd><li index=”3”>Orange</li><li>mango</li></dd> <dt>Milk</dt> <dd>white drink</dd> </dl>
 
 none of above
@@ -3563,7 +3563,7 @@ The for attribute of the <label> tag should be equal to the name attribute of th
 
 A and B
 
-You Selected
+You Selected ✅
 Question 13
 Correct Answer
 Marks: 1/1
@@ -3577,7 +3577,7 @@ Tags used for creating list_____?
 
 All the above
 
-You Selected
+You Selected ✅
 Question 14
 Correct Answer
 Marks: 1/1
@@ -3599,7 +3599,7 @@ example of attribute selector
 
 example of universal selector,style will be apply to all the tags .
 
-You Selected
+You Selected ✅
 Question 15
 Correct Answer
 Marks: 1/1
@@ -3621,7 +3621,7 @@ Choose correct code-
 
 <table style="width:30%"> <tr><th>Name</th> <td>Harsh</td></tr> <tr><th rowspan="2">Phone</th> <td>88888888</td></tr> <tr><td>999999</td> </tr> </table>
 
-You Selected
+You Selected ✅
 None
 
 can’t be done
@@ -3636,7 +3636,7 @@ Marks: 1/1
 External css uses which tag?
 Link
 
-You Selected
+You Selected ✅
 Style
 
 Src
@@ -3654,7 +3654,7 @@ Which element is used to define id in CSS?
 
 #
 
-You Selected
+You Selected ✅
 $
 
 Question 3
@@ -3664,7 +3664,7 @@ Marks: 1/1
 Which of the following is correct way to use comments in CSS
 /* */
 
-You Selected
+You Selected ✅
 //
 
 #
@@ -3678,7 +3678,7 @@ Marks: 1/1
 What is extension for CSS file
 .css
 
-You Selected
+You Selected ✅
 .htm
 
 .csstext
@@ -3694,7 +3694,7 @@ Border
 
 Border-style
 
-You Selected
+You Selected ✅
 border-css
 
 border-setting
@@ -3708,7 +3708,7 @@ It's extension is .css
 
 It is referenced in HTML through <src> tab
 
-You Selected
+You Selected ✅
 It is referenced in HTML through <link> tab
 
 We can add styles in HTML through different ways other than External Style Sheets.
@@ -3729,7 +3729,7 @@ Which of the following tags doesn’t require a closing tag?
 
 Both A and B
 
-You Selected
+You Selected ✅
 None of the above
 
 Question 8
@@ -3743,7 +3743,7 @@ Border
 
 Plains
 
-You Selected
+You Selected ✅
 Color
 
 Question 9
@@ -3759,7 +3759,7 @@ ID selector
 
 All of the above
 
-You Selected
+You Selected ✅
 Question 10
 Correct Answer
 Marks: 1/1
@@ -3771,7 +3771,7 @@ align
 
 float
 
-You Selected
+You Selected ✅
 wrap
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #2
@@ -3803,7 +3803,7 @@ The values of count variable will not be logged
 
 The value of count from 0 to 9 is displayed in the console
 
-You Selected
+You Selected ✅
 Question 2
 Correct Answer
 Marks: 1/1
@@ -3830,7 +3830,7 @@ Output is 16
 
 Output is 80
 
-You Selected
+You Selected ✅
 Question 3
 Correct Answer
 Marks: 1/1
@@ -3842,7 +3842,7 @@ Document Object Manipulation
 
 Document Object Model
 
-You Selected
+You Selected ✅
 None of these
 
 Question 4
@@ -3858,7 +3858,7 @@ Undefined
 
 All of the mentioned
 
-You Selected
+You Selected ✅
 Question 5
 Correct Answer
 Marks: 1/1
@@ -3870,7 +3870,7 @@ var keyword should be preferably used for old browsers
 
 const should be used whenever the type should be changed
 
-You Selected
+You Selected ✅
 None of the mentioned
 
 Question 6
@@ -3880,7 +3880,7 @@ Marks: 1/1
 Select invalid JavaScript datatype from the following : 
 Constructor
 
-You Selected
+You Selected ✅
 Array
 
 Object
@@ -3898,7 +3898,7 @@ Block scope
 
 NullGlobal scope
 
-You Selected
+You Selected ✅
 None of the above
 
 Question 8
@@ -3914,7 +3914,7 @@ Functions can be passed as arguments to another function in JS
 
 All the above are true
 
-You Selected
+You Selected ✅
 Question 9
 Correct Answer
 Marks: 1/1
@@ -3928,7 +3928,7 @@ Java-script has Objects.
 
 All of the mentioned
 
-You Selected
+You Selected ✅
 Question 10
 Correct Answer
 Marks: 1/1
@@ -3943,7 +3943,7 @@ Select the outcome for the snippet of code:
 
 1818
 
-You Selected
+You Selected ✅
 10909
 
 Undefined
@@ -3960,7 +3960,7 @@ Marks: 1/1
 When using async and await, what happens if a promise is rejected?
 An error is thrown
 
-You Selected
+You Selected ✅
 The execution continues without interruption
 
 The program crashes
@@ -3978,7 +3978,7 @@ fetch.modify()
 
 fetch.intercept()
 
-You Selected
+You Selected ✅
 fetch.extend()
 
 Question 3
@@ -3990,7 +3990,7 @@ It defines a block of code to be executed if an error occurs
 
 It defines a block of code to be executed regardless of the try...catch result
 
-You Selected
+You Selected ✅
 It throws an error
 
 It handles errors that occur in a block of code
@@ -4002,7 +4002,7 @@ Marks: 1/1
 What is the purpose of the Module Pattern in JavaScript?
 To create encapsulated modules with private and public methods
 
-You Selected
+You Selected ✅
 To create multiple instances of an object
 
 To define constructors
@@ -4020,7 +4020,7 @@ To define styles for web elements
 
 To exchange data between a server and a web application
 
-You Selected
+You Selected ✅
 To manage server-side logic
 
 Question 6
@@ -4032,7 +4032,7 @@ Defines a function that returns a promise
 
 Defines a function that can be awaited asynchronously
 
-You Selected
+You Selected ✅
 Defines a function that executes synchronously
 
 Defines a function that can't return anything
@@ -4044,7 +4044,7 @@ Marks: 1/1
 What are JavaScript design patterns?
 Reusable solutions to commonly occurring problems in software design
 
-You Selected
+You Selected ✅
 Random pieces of code
 
 Predefined functions in JavaScript
@@ -4058,7 +4058,7 @@ Marks: 1/1
 What is the purpose of the await keyword in JavaScript?
 It is used to pause the execution of a function until a promise is resolved
 
-You Selected
+You Selected ✅
 It is used to cancel a promise
 
 It is used to create a new promise
@@ -4074,7 +4074,7 @@ The request body
 
 The server response to an HTTP request
 
-You Selected
+You Selected ✅
 An error message
 
 The request headers
@@ -4088,7 +4088,7 @@ npm install server-json
 
 npm install json-server
 
-You Selected
+You Selected ✅
 npm setup-json-server
 
 npm server-json-install
@@ -4100,7 +4100,7 @@ Marks: 1/1
 Which design pattern is used to ensure that only one instance of a class is created?
 Singleton Pattern
 
-You Selected
+You Selected ✅
 Prototype Pattern
 
 Factory Pattern
@@ -4116,7 +4116,7 @@ Using the throw statement
 
 Using the try...catch statement
 
-You Selected
+You Selected ✅
 Using the finally statement
 
 Using the return statement
@@ -4128,7 +4128,7 @@ Marks: 1/1
 What is an Error object in JavaScript?
 An object that represents an error occurring during the execution of code
 
-You Selected
+You Selected ✅
 An object that represents a success message
 
 An object that represents a warning message
@@ -4146,7 +4146,7 @@ new Error()
 
 throw new Error()
 
-You Selected
+You Selected ✅
 error()
 
 Question 15
@@ -4160,7 +4160,7 @@ In JSON, what is the correct way to represent a key-value pair?
 
 key : value
 
-You Selected
+You Selected ✅
 key -> value
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #2
@@ -4175,7 +4175,7 @@ Being a subset of JavaScript
 
 Adding static typing to JavaScript
 
-You Selected
+You Selected ✅
 Enhancing browser performance
 
 Providing a simpler syntax for JavaScript
@@ -4187,7 +4187,7 @@ Marks: 1/1
 In TypeScript, what is the purpose of variable hoisting?
 To automatically declare variables at the beginning of the scope
 
-You Selected
+You Selected ✅
 To prioritize certain variables over others in the same scope
 
 To initialize variables with default values
@@ -4203,7 +4203,7 @@ Classes are not supported in TypeScript
 
 Classes provide a way to define objects and their behavior
 
-You Selected
+You Selected ✅
 Classes are used for conditional statements in TypeScript
 
 Classes are only used for type annotations in TypeScript
@@ -4215,7 +4215,7 @@ Marks: 1/1
 What is the primary advantage of using interfaces in TypeScript?
 They allow for better code organization and readability
 
-You Selected
+You Selected ✅
 They enable the declaration of variables without specifying their types
 
 They provide a way to implement inheritance in TypeScript
@@ -4235,7 +4235,7 @@ It calculates the efficiency of functions based on the number of arguments
 
 It evaluates functions based on their return types and parameter types
 
-You Selected
+You Selected ✅
 Question 6
 Correct Answer
 Marks: 1/1
@@ -4247,7 +4247,7 @@ TypeScript provides better tooling support for large-scale applications
 
 TypeScript has better runtime performance compared to JavaScript
 
-You Selected
+You Selected ✅
 TypeScript enables the use of modern ECMAScript features in older browsers
 
 Question 7
@@ -4257,7 +4257,7 @@ Marks: 1/1
 What is the main difference between a constructor and a method in TypeScript classes?
 Constructors are used to initialize class instances, while methods are used to define class behavior
 
-You Selected
+You Selected ✅
 Constructors are static, while methods are instance-specific
 
 Constructors can be inherited, while methods cannot
@@ -4271,7 +4271,7 @@ Marks: 1/1
 In TypeScript, what is the purpose of using iterators?
 To loop through arrays and objects
 
-You Selected
+You Selected ✅
 To convert data types between maps and arrays
 
 To manage memory allocation in complex data structures
@@ -4285,7 +4285,7 @@ Marks: 1/1
 How does implementing interfaces differ from extending classes in TypeScript?
 Interfaces are used for type checking, while classes are used for inheritance
 
-You Selected
+You Selected ✅
 Interfaces provide method implementations, while classes provide type declarations
 
 Interfaces are optional, while class extension is mandatory for inheritance
@@ -4299,7 +4299,7 @@ Marks: 1/1
 Which of the following accurately describes the hands-on practice for implementing classes with methods and constructors in TypeScript?
 Writing code to create new instances of classes and calling their methods
 
-You Selected
+You Selected ✅
 Implementing complex algorithms using iterative loops and conditional statements
 
 Designing user interfaces with HTML and CSS
@@ -4313,7 +4313,7 @@ Marks: 1/1
 When would you typically use a map instead of an array in TypeScript?
 When you need to store key-value pairs
 
-You Selected
+You Selected ✅
 When you need to perform sequential operations on data
 
 When you need to ensure unique values in the collection
@@ -4327,7 +4327,7 @@ Marks: 1/1
 How does TypeScript help in detecting errors during development compared to JavaScript?
 TypeScript provides compile-time error checking, whereas JavaScript only checks errors at runtime
 
-You Selected
+You Selected ✅
 TypeScript enables real-time error notifications in the browser console
 
 TypeScript automatically fixes syntax errors in the code
@@ -4341,7 +4341,7 @@ Marks: 1/1
 Which of the following statements about TypeScript's support for optional chaining is true?
 Optional chaining allows accessing nested properties without checking for existence, preventing runtime errors
 
-You Selected
+You Selected ✅
 Optional chaining is only supported in older versions of TypeScript
 
 Optional chaining must be explicitly enabled in the TypeScript compiler settings
@@ -4355,7 +4355,7 @@ Marks: 1/1
 How does TypeScript handle type inference?
 TypeScript infers the types of variables based on their usage and context
 
-You Selected
+You Selected ✅
 TypeScript requires explicit type annotations for all variables
 
 TypeScript automatically converts all variables to the 'any' type
@@ -4369,7 +4369,7 @@ Marks: 1/1
 Which of the following best describes the purpose of functional scoring in TypeScript?
 To evaluate the complexity and efficiency of functions
 
-You Selected
+You Selected ✅
 To assign priority levels to functions based on their return types
 
 To enforce strict typing rules for function parameters
@@ -4390,7 +4390,7 @@ Node.js has a slower runtime compared to Python.
 
 Node.js utilizes a non-blocking, event-driven architecture.
 
-You Selected
+You Selected ✅
 Node.js is primarily used for frontend development.
 
 Explanation: One of the key differences between Node.js and other server-side technologies is its event-driven, non-blocking I/O model, which allows for high concurrency and scalability.
@@ -4406,7 +4406,7 @@ Lack of community support
 
 Faster execution of I/O operations
 
-You Selected
+You Selected ✅
 Inability to handle real-time applications
 
 Explanation: Node.js excels in handling I/O-bound operations with its non-blocking architecture, leading to faster performance in tasks such as file system operations and network requests.
@@ -4420,7 +4420,7 @@ import http from 'http';
 
 require('http');
 
-You Selected
+You Selected ✅
 include('http');
 
 import { http } from 'http';
@@ -4434,7 +4434,7 @@ Marks: 1/1
 What does the npm command do in Node.js?
 Installs dependencies
 
-You Selected
+You Selected ✅
 Runs Node.js scripts
 
 Removes Node.js modules
@@ -4456,7 +4456,7 @@ npm save
 
 npm install --save
 
-You Selected
+You Selected ✅
 Explanation: npm install --save <package-name> installs a package and saves it as a dependency in the package.json file.
 
 Question 6
@@ -4468,7 +4468,7 @@ A web browser
 
 Node.js runtime environment
 
-You Selected
+You Selected ✅
 A database server
 
 A text editor
@@ -4488,7 +4488,7 @@ A programming paradigm that focuses on object-oriented design
 
 A programming paradigm based on events and event listeners
 
-You Selected
+You Selected ✅
 Explanation: Node.js is event-driven, meaning it uses events and event listeners to handle asynchronous operations.
 
 Question 8
@@ -4500,7 +4500,7 @@ To include external JavaScript files
 
 To load built-in Node.js modules
 
-You Selected
+You Selected ✅
 To execute shell commands
 
 To define variables
@@ -4518,7 +4518,7 @@ A programming language
 
 A server-side JavaScript runtime environment
 
-You Selected
+You Selected ✅
 A database management system
 
 Explanation: Node.js is a runtime environment that allows you to run JavaScript code on the server-side.
@@ -4536,7 +4536,7 @@ Facebook
 
 Joyent
 
-You Selected
+You Selected ✅
 Explanation: Node.js was initially developed by Ryan Dahl at Joyent in 2009.
 
 Question 11
@@ -4546,7 +4546,7 @@ Marks: 1/1
 What is npm?
 Node Package Manager
 
-You Selected
+You Selected ✅
 New Programming Module
 
 Node Project Manager
@@ -4562,7 +4562,7 @@ Marks: 1/1
 Which module is used for file system operations in Node.js?
 fs
 
-You Selected
+You Selected ✅
 HTTP
 
 path
@@ -4582,7 +4582,7 @@ Asynchronous and event-driven
 
 Blocking I/O
 
-You Selected
+You Selected ✅
 Single-threaded
 
 Explanation: Node.js utilizes non-blocking I/O, which means it doesn't block execution during I/O operations.
@@ -4596,7 +4596,7 @@ GET
 
 EXECUTE
 
-You Selected
+You Selected ✅
 POST
 
 DELETE
@@ -4613,7 +4613,7 @@ console.log(__dirname);
 
 Current working directory
 
-You Selected
+You Selected ✅
 Parent directory
 
 File path of the executed script
@@ -4632,7 +4632,7 @@ Marks: 1/1
 What is the significance of the useState hook in React?
 It allows adding state management in functional components
 
-You Selected
+You Selected ✅
 It manages the global state of the application
 
 It handles API calls
@@ -4648,7 +4648,7 @@ To manage and control the database
 
 To define reusable UI elements
 
-You Selected
+You Selected ✅
 To handle HTTP requests
 
 To control the back-end API
@@ -4662,7 +4662,7 @@ By using real-time WebSockets
 
 By using Virtual DOM and diffing algorithms
 
-You Selected
+You Selected ✅
 By pre-rendering pages on the server
 
 By using built-in caching mechanisms
@@ -4674,7 +4674,7 @@ Marks: 1/1
 What is the purpose of JSX in React?
 A JavaScript syntax extension that allows writing HTML-like code
 
-You Selected
+You Selected ✅
 A template engine like Handlebars
 
 A function for making API calls
@@ -4694,7 +4694,7 @@ Updating
 
 Unmounting
 
-You Selected
+You Selected ✅
 Question 6
 Correct Answer
 Marks: 1/1
@@ -4706,7 +4706,7 @@ return <h1>Hello, World!</h1>;
 }
 Valid React functional component
 
-You Selected
+You Selected ✅
 Invalid, missing render() method
 
 Invalid, function keyword cannot be used
@@ -4720,7 +4720,7 @@ Marks: 1/1
 What is the role of React Router in SPA (Single Page Applications)?
 To handle navigation without reloading the page
 
-You Selected
+You Selected ✅
 To manage backend API calls
 
 To store session data
@@ -4740,7 +4740,7 @@ React supports one-way data binding, while Angular supports two-way data binding
 
 React does not support reusable components, whereas Angular does
 
-You Selected
+You Selected ✅
 Question 9
 Incorrect Answer
 Marks: 0/1
@@ -4762,7 +4762,7 @@ Marks: 1/1
 Which of the following best describes the Virtual DOM in React?
 A lightweight copy of the real DOM that helps in efficient updates
 
-You Selected
+You Selected ✅
 A separate database used for caching UI components
 
 A JavaScript function that renders UI elements
@@ -4778,7 +4778,7 @@ Two-way data binding
 
 Virtual DOM for efficient rendering
 
-You Selected
+You Selected ✅
 Built-in dependency injection
 
 Server-side rendering by default
@@ -4790,7 +4790,7 @@ Marks: 1/1
 Which type of component lifecycle method is called only once in a class component?
 componentDidMount()
 
-You Selected
+You Selected ✅
 componentWillUnmount()
 
 componentDidUpdate()
@@ -4806,7 +4806,7 @@ React applications require no JavaScript
 
 React components are reusable and maintainable
 
-You Selected
+You Selected ✅
 React is the only library that supports front-end development
 
 React applications do not require state management
@@ -4820,7 +4820,7 @@ A JavaScript framework for building mobile applications
 
 A JavaScript library for building user interfaces
 
-You Selected
+You Selected ✅
 A CSS framework for styling web applications
 
 A database management system
@@ -4834,7 +4834,7 @@ When building large enterprise applications with strict architecture
 
 When developing lightweight, component-based, and highly interactive UIs
 
-You Selected
+You Selected ✅
 When handling heavy backend processes and business logic
 
 When requiring built-in form validation and dependency injection
@@ -4855,7 +4855,7 @@ Because prop values cannot be stored in state
 
 Because that would create two instances of the same state that could become out of sync
 
-You Selected
+You Selected ✅
 Question 2
 Correct Answer
 Marks: 1/1
@@ -4870,7 +4870,7 @@ The name you want to use for the new app
 
 A reference to an existing app
 
-You Selected
+You Selected ✅
 The directory to create the new app in
 
 Question 3
@@ -4884,7 +4884,7 @@ Which operator can be used to conditionally render a React component?
 
 &&
 
-You Selected
+You Selected ✅
 ::
 
 Question 4
@@ -4894,7 +4894,7 @@ Marks: 1/1
 To develop and run React code, Node.js is required.
 True
 
-You Selected
+You Selected ✅
 False
 
 Question 5
@@ -4910,7 +4910,7 @@ How many elements can a valid react component return?
 
 1
 
-You Selected
+You Selected ✅
 Question 6
 Correct Answer
 Marks: 1/1
@@ -4920,7 +4920,7 @@ React router
 
 Babel
 
-You Selected
+You Selected ✅
 ReactDOM
 
 JSX Compiler
@@ -4936,7 +4936,7 @@ Shadow DOM
 
 Virtual DOM
 
-You Selected
+You Selected ✅
 React DOM
 
 Question 8
@@ -4946,7 +4946,7 @@ Marks: 1/1
 React separates the user interface into components. How are components combined to create a user interface?
 By nesting components
 
-You Selected
+You Selected ✅
 With webpack
 
 With code splitting
@@ -4962,7 +4962,7 @@ True
 
 False
 
-You Selected
+You Selected ✅
 Question 10
 Correct Answer
 Marks: 1/1
@@ -4970,7 +4970,7 @@ Marks: 1/1
 What props will be available to the following component?
 all of them
 
-You Selected
+You Selected ✅
 only static ones
 
 only updated once
@@ -4984,7 +4984,7 @@ Marks: 1/1
 How can you optimise performance for a function component that always renders the same way?
 Wrap it in the React.memo higher-order component.
 
-You Selected
+You Selected ✅
 Use the useMemo Hook
 
 Use the useReducer Hook.
@@ -4998,7 +4998,7 @@ Marks: 1/1
 In MVC, what does React.js act as?
 Controller
 
-You Selected
+You Selected ✅
 Middleware
 
 Model
@@ -5026,7 +5026,7 @@ Add parenthesis around round bracket
 
 The first letter of the function must be capitalized
 
-You Selected
+You Selected ✅
 remove return statement
 
 Question 14
@@ -5038,7 +5038,7 @@ import Component from 'react'
 
 import { Component } from 'react'
 
-You Selected
+You Selected ✅
 import [Component] from 'react'
 
 import React.Component from 'react
@@ -5054,7 +5054,7 @@ A property that lets you nest components in other components
 
 A property that lets you set an object as a property
 
-You Selected
+You Selected ✅
 A property that lets you pass data to child components
 ---------------------------------------------------------------------------------------------------------------------------
 Attempt #1
@@ -5075,7 +5075,7 @@ return () => clearInterval(interval);
 }, []);
 By returning a cleanup function inside useEffect
 
-You Selected
+You Selected ✅
 By calling clearInterval outside useEffect
 
 By setting the state to null
@@ -5091,7 +5091,7 @@ It replaces setState for managing local component state
 
 It allows performing side effects in functional components
 
-You Selected
+You Selected ✅
 It handles component rendering
 
 It updates the component state synchronously
@@ -5107,7 +5107,7 @@ console.log("Effect ran");
 }, []);
 Runs only once when the component mounts
 
-You Selected
+You Selected ✅
 Runs on every render
 
 Never runs
@@ -5127,7 +5127,7 @@ useReducer
 
 useRedux
 
-You Selected
+You Selected ✅
 Question 5
 Correct Answer
 Marks: 1/1
@@ -5135,7 +5135,7 @@ Marks: 1/1
 What is useContext used for?
 To access context values without using the Context.Consumer
 
-You Selected
+You Selected ✅
 To replace useState for managing local state
 
 To fetch data from an API
@@ -5154,7 +5154,7 @@ A single variable that stores state
 
 A stateful value and a function to update it
 
-You Selected
+You Selected ✅
 A function that only updates state
 
 A promise that resolves to the state value
@@ -5173,7 +5173,7 @@ setCount(count++);
 
 setCount(count + 1);
 
-You Selected
+You Selected ✅
 count.update(1);
 
 Question 8
@@ -5183,7 +5183,7 @@ Marks: 1/1
 What is the main benefit of refactoring class components to functional components with hooks?
 Reduced code complexity and better readability
 
-You Selected
+You Selected ✅
 Improved performance by default
 
 Functional components cannot use state
@@ -5209,7 +5209,7 @@ return (
 }
 Logs Count updated: 1, Count updated: 2, etc., every time the button is clicked
 
-You Selected
+You Selected ✅
 Logs Count updated: 0 once and never updates
 
 Logs Count updated: 0 on every render
@@ -5223,7 +5223,7 @@ Marks: 1/1
 How can you optimize performance when using useEffect?
 Provide a dependency array to prevent unnecessary re-execution
 
-You Selected
+You Selected ✅
 Always leave the dependency array empty
 
 Use useEffect inside useState
@@ -5237,7 +5237,7 @@ Marks: 1/1
 What lifecycle method does useEffect replace in class components?
 componentDidMount, componentDidUpdate, and componentWillUnmount
 
-You Selected
+You Selected ✅
 componentWillReceiveProps only
 
 shouldComponentUpdate only
@@ -5255,7 +5255,7 @@ const ThemeContext = React.createContext('light');
 useState(ThemeContext)
 
 <ThemeContext.Provider value="dark">...</ThemeContext.Provider>
-You Selected
+You Selected ✅
 <ThemeContext value="dark">...</ThemeContext>
 useContext(ThemeContext, "dark")
 Question 13
@@ -5270,7 +5270,7 @@ console.log(count);
 
 Runs only when count changes
 
-You Selected
+You Selected ✅
 Runs on every render
 
 Runs only on component mount
@@ -5286,7 +5286,7 @@ To manage global state in a Redux store
 
 To allow functional components to use state and lifecycle methods
 
-You Selected
+You Selected ✅
 To replace all React class components
 
 To handle API requests
@@ -5300,7 +5300,7 @@ How do you access a context value inside a functional component?
 const theme = useContext(ThemeContext);
 Using useContext(ThemeContext)
 
-You Selected
+You Selected ✅
 Using useState(ThemeContext)
 
 Using useEffect(ThemeContext)
@@ -5319,7 +5319,7 @@ only function component can have a life cycle
 
 Only class components can have life cycle
 
-You Selected
+You Selected ✅
 Both types of components can have life cycle
 
 None of above
@@ -5331,7 +5331,7 @@ Marks: 1/1
 When is useReducer used over useState in React component?
 When we want replace flux
 
-You Selected
+You Selected ✅
 when we want break our production app
 
 when we want to improve our performance
@@ -5347,7 +5347,7 @@ FTP
 
 HTTP
 
-You Selected
+You Selected ✅
 JMX
 
 SOAP
@@ -5363,7 +5363,7 @@ It's a state of the execution of the ReactJS application
 
 It's an internal storage of the components
 
-You Selected
+You Selected ✅
 All of the above
 
 Question 5
@@ -5375,7 +5375,7 @@ event type
 
 event target
 
-You Selected
+You Selected ✅
 both event type and event target
 
 interface
@@ -5393,7 +5393,7 @@ To change the layout of the screen
 
 when you need the browser to paint before the effectors.
 
-You Selected
+You Selected ✅
 Question 7
 Correct Answer
 Marks: 1/1
@@ -5407,7 +5407,7 @@ willComponentUpdate
 
 shouldComponentUpdate
 
-You Selected
+You Selected ✅
 Question 8
 Correct Answer
 Marks: 1/1
@@ -5419,7 +5419,7 @@ this. State{}
 
 this.setState
 
-You Selected
+You Selected ✅
 None of the above
 
 Question 9
@@ -5433,7 +5433,7 @@ to call function
 
 to directly access the Dom node
 
-You Selected
+You Selected ✅
 to refer to another JS file
 
 Question 10
@@ -5447,7 +5447,7 @@ The state of the component is updated.
 
 Both of the above
 
-You Selected
+You Selected ✅
 None of the above
 
 Question 11
@@ -5457,7 +5457,7 @@ Marks: 1/1
 The state in react can be updated by call to setState method. These calls are
 Synchronous in nature
 
-You Selected
+You Selected ✅
 Asynchronous in nature
 
 Are asynchronous but can be made synchronous when required
@@ -5475,7 +5475,7 @@ How many stages are there in React js life cycle?
 
 3
 
-You Selected
+You Selected ✅
 0
 
 Question 13
@@ -5491,7 +5491,7 @@ React.js can render both on the client and server side
 
 All of the above
 
-You Selected
+You Selected ✅
 Question 14
 Correct Answer
 Marks: 1/1
@@ -5499,7 +5499,7 @@ Marks: 1/1
 We can update the state in React.js by calling to setState() method. These calls are__________
 Asynchronous in nature
 
-You Selected
+You Selected ✅
 Synchronous in nature
 
 Are asynchronous but can be made synchronous when required
@@ -5513,7 +5513,7 @@ Marks: 1/1
 Which HTTP method do we use to make an HTTP request to update an existing resource?
 POST
 
-You Selected
+You Selected ✅
 PUT
 
 UPDATE
