@@ -1208,3 +1208,86 @@ public class StringFunctionOperations
     }
 }
 ==============================================================================================================================================================
+Question 16:
+1. Rotates an array to the rigit by a specified number of positions.
+2. Concatenates the rotated array elements into a single string.
+3. Reverse the concatenates string.
+4. Counts the occurrences of each digit in the reversed string
+-----------------------------------------------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        // Take user input for the array
+        Console.WriteLine("");
+        string[] inputArray = Console.ReadLine().Split(' ');
+        int[] array = Array.ConvertAll(inputArray, int.Parse);
+
+        // Take user input for the number of rotation positions
+        Console.WriteLine("");
+        int rotationPositions = int.Parse(Console.ReadLine());
+
+        // Rotate the array to the right
+        int[] rotatedArray = RotateArray(array, rotationPositions);
+
+        // Concatenate the rotated array into a single string
+        string concatenatedString = string.Join(",", rotatedArray);
+
+        // Reverse the concatenated string
+        string reversedString = new string(concatenatedString.Reverse().ToArray());
+
+        // Count occurrences of each digit in the reversed string
+        Dictionary<char, int> digitCounts = CountDigits(reversedString);
+
+        Console.WriteLine("Rotated Array: [" + string.Join(", ", rotatedArray) + "]");
+        Console.WriteLine("Concatenated String: \"" + concatenatedString + "\"");
+        Console.WriteLine("Reversed String: \"" + reversedString + "\"");
+        Console.WriteLine("Digit Counts: "+ string.Join(", ", digitCounts.Select(kvp => kvp.Key + ":" + kvp.Value)));
+
+    }
+
+    static int[] RotateArray(int[] array, int rotationPositions)
+    {
+        int length = array.Length;
+        rotationPositions = rotationPositions % length;
+
+        if(rotationPositions < 0)
+        {
+            rotationPositions = length + rotationPositions;
+        }
+
+        int[] rotatedArray = new int[length];
+        Array.Copy(array, length - rotationPositions, rotatedArray, 0, rotationPositions);
+        Array.Copy(array, 0, rotatedArray, rotationPositions, length - rotationPositions);
+
+        return rotatedArray;
+    }
+
+    static Dictionary<char, int> CountDigits(string str)
+    {
+        Dictionary<char, int> digitCounts = new Dictionary<char, int>();
+
+        foreach(char c in str)
+        {
+            if(char.IsDigit(c))
+            {
+                if(digitCounts.ContainsKey(c))
+                {
+                    digitCounts[c]++;
+                }
+                else
+                {
+                    digitCounts[c] = 1;
+                }
+            }
+        }
+        return digitCounts;
+    }   
+
+
+}
+
